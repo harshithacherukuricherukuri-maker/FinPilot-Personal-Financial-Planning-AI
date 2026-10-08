@@ -1,0 +1,1656 @@
+transaction_id,user_id,date,description,amount,transaction_type,category
+TXN-202501-00001,1,2025-01-01,Salary,5077.89,income,Income
+TXN-202501-00051,2,2025-01-01,Salary,6593.94,income,Income
+TXN-202501-00063,2,2025-01-01,Restaurant,71.04,expense,Food
+TXN-202501-00077,2,2025-01-01,Grocery Store,136.67,expense,Food
+TXN-202501-00003,1,2025-01-02,Rent,1350.0,expense,Housing
+TXN-202501-00012,1,2025-01-02,Grocery Store,62.33,expense,Food
+TXN-202501-00025,1,2025-01-02,Restaurant,79.11,expense,Food
+TXN-202501-00035,1,2025-01-02,Cab,22.43,expense,Transport
+TXN-202501-00052,2,2025-01-02,Rent,1800.0,expense,Housing
+TXN-202501-00019,1,2025-01-03,Grocery Store,79.87,expense,Food
+TXN-202501-00026,1,2025-01-03,Food Delivery,43.59,expense,Food
+TXN-202501-00036,1,2025-01-03,Fuel,68.0,expense,Transport
+TXN-202501-00067,2,2025-01-03,Restaurant,98.55,expense,Food
+TXN-202501-00078,2,2025-01-03,Bus,4.58,expense,Transport
+TXN-202501-00079,2,2025-01-03,Metro,4.25,expense,Transport
+TXN-202501-00044,1,2025-01-04,Clothing,62.4,expense,Shopping
+TXN-202501-00064,2,2025-01-04,Food Delivery,52.8,expense,Food
+TXN-202501-00091,2,2025-01-04,Movies,37.98,expense,Entertainment
+TXN-202501-00005,1,2025-01-05,Electricity,158.94,expense,Utilities
+TXN-202501-00053,2,2025-01-05,Electricity,126.65,expense,Utilities
+TXN-202501-00061,2,2025-01-05,Grocery Store,66.23,expense,Food
+TXN-202501-00004,1,2025-01-06,Maintenance,125.75,expense,Housing
+TXN-202501-00089,2,2025-01-06,Clothing,89.97,expense,Shopping
+TXN-202501-00018,1,2025-01-07,Food Delivery,26.11,expense,Food
+TXN-202501-00083,2,2025-01-07,Fuel,58.06,expense,Transport
+TXN-202501-00088,2,2025-01-07,Electronics,120.78,expense,Shopping
+TXN-202501-00006,1,2025-01-08,Water Bill,32.17,expense,Utilities
+TXN-202501-00015,1,2025-01-08,Grocery Store,69.77,expense,Food
+TXN-202501-00054,2,2025-01-08,Water Bill,32.66,expense,Utilities
+TXN-202501-00066,2,2025-01-08,Food Delivery,55.5,expense,Food
+TXN-202501-00075,2,2025-01-08,Grocery Store,92.71,expense,Food
+TXN-202501-00082,2,2025-01-08,Cab,32.99,expense,Transport
+TXN-202501-00032,1,2025-01-09,Bus,3.92,expense,Transport
+TXN-202501-00070,2,2025-01-09,Restaurant,80.95,expense,Food
+TXN-202501-00007,1,2025-01-10,Internet,69.99,expense,Utilities
+TXN-202501-00055,2,2025-01-10,Internet,69.99,expense,Utilities
+TXN-202501-00008,1,2025-01-12,Mobile Bill,45.0,expense,Utilities
+TXN-202501-00020,1,2025-01-12,Restaurant,81.5,expense,Food
+TXN-202501-00024,1,2025-01-12,Restaurant,74.32,expense,Food
+TXN-202501-00028,1,2025-01-12,Grocery Store,79.41,expense,Food
+TXN-202501-00042,1,2025-01-12,Fuel,69.91,expense,Transport
+TXN-202501-00056,2,2025-01-12,Mobile Bill,45.0,expense,Utilities
+TXN-202501-00084,2,2025-01-12,Metro,5.1,expense,Transport
+TXN-202501-00027,1,2025-01-13,Grocery Store,114.46,expense,Food
+TXN-202501-00046,1,2025-01-13,Electronics,195.73,expense,Shopping
+TXN-202501-00073,2,2025-01-13,Food Delivery,43.74,expense,Food
+TXN-202501-00009,1,2025-01-14,Netflix,15.99,expense,Subscription
+TXN-202501-00050,1,2025-01-14,Pharmacy,15.13,expense,Healthcare
+TXN-202501-00057,2,2025-01-14,Netflix,15.99,expense,Subscription
+TXN-202501-00010,1,2025-01-15,Spotify,10.99,expense,Subscription
+TXN-202501-00039,1,2025-01-15,Fuel,39.89,expense,Transport
+TXN-202501-00058,2,2025-01-15,Spotify,10.99,expense,Subscription
+TXN-202501-00074,2,2025-01-15,Food Delivery,35.88,expense,Food
+TXN-202501-00090,2,2025-01-15,Games,62.79,expense,Entertainment
+TXN-202501-00038,1,2025-01-16,Fuel,67.01,expense,Transport
+TXN-202501-00043,1,2025-01-16,Clothing,46.6,expense,Shopping
+TXN-202501-00080,2,2025-01-16,Fuel,39.63,expense,Transport
+TXN-202501-00013,1,2025-01-17,Restaurant,64.29,expense,Food
+TXN-202501-00002,1,2025-01-18,Freelance Income,595.91,income,Income
+TXN-202501-00011,1,2025-01-18,Cloud Subscription,20.0,expense,Subscription
+TXN-202501-00031,1,2025-01-18,Restaurant,36.44,expense,Food
+TXN-202501-00033,1,2025-01-18,Fuel,46.35,expense,Transport
+TXN-202501-00047,1,2025-01-18,Games,20.56,expense,Entertainment
+TXN-202501-00059,2,2025-01-18,Cloud Subscription,20.0,expense,Subscription
+TXN-202501-00041,1,2025-01-19,Metro,5.63,expense,Transport
+TXN-202501-00076,2,2025-01-19,Restaurant,79.43,expense,Food
+TXN-202501-00030,1,2025-01-21,Grocery Store,114.37,expense,Food
+TXN-202501-00086,2,2025-01-21,Fuel,49.09,expense,Transport
+TXN-202501-00029,1,2025-01-22,Grocery Store,152.08,expense,Food
+TXN-202501-00045,1,2025-01-22,Electronics,78.42,expense,Shopping
+TXN-202501-00069,2,2025-01-22,Restaurant,76.18,expense,Food
+TXN-202501-00014,1,2025-01-23,Restaurant,63.15,expense,Food
+TXN-202501-00017,1,2025-01-23,Grocery Store,69.73,expense,Food
+TXN-202501-00021,1,2025-01-24,Restaurant,33.74,expense,Food
+TXN-202501-00040,1,2025-01-24,Metro,4.18,expense,Transport
+TXN-202501-00048,1,2025-01-24,Movies,35.35,expense,Entertainment
+TXN-202501-00072,2,2025-01-24,Restaurant,89.89,expense,Food
+TXN-202501-00085,2,2025-01-24,Fuel,57.87,expense,Transport
+TXN-202501-00034,1,2025-01-25,Cab,17.96,expense,Transport
+TXN-202501-00049,1,2025-01-25,Movies,29.74,expense,Entertainment
+TXN-202501-00068,2,2025-01-25,Restaurant,40.56,expense,Food
+TXN-202501-00087,2,2025-01-26,Household Shopping,55.36,expense,Shopping
+TXN-202501-00023,1,2025-01-27,Restaurant,86.98,expense,Food
+TXN-202501-00060,2,2025-01-27,Restaurant,81.15,expense,Food
+TXN-202501-00065,2,2025-01-27,Food Delivery,27.48,expense,Food
+TXN-202501-00016,1,2025-01-28,Grocery Store,135.73,expense,Food
+TXN-202501-00037,1,2025-01-29,Cab,17.53,expense,Transport
+TXN-202501-00022,1,2025-01-30,Grocery Store,104.01,expense,Food
+TXN-202501-00081,2,2025-01-30,Bus,3.73,expense,Transport
+TXN-202501-00062,2,2025-01-31,Food Delivery,39.0,expense,Food
+TXN-202501-00071,2,2025-01-31,Grocery Store,122.89,expense,Food
+TXN-202502-00092,1,2025-02-01,Salary,5135.27,income,Income
+TXN-202502-00134,2,2025-02-01,Salary,6645.96,income,Income
+TXN-202502-00170,2,2025-02-01,Electronics,352.67,expense,Shopping
+TXN-202502-00093,1,2025-02-02,Rent,1350.0,expense,Housing
+TXN-202502-00110,1,2025-02-02,Food Delivery,17.64,expense,Food
+TXN-202502-00136,2,2025-02-02,Rent,1800.0,expense,Housing
+TXN-202502-00119,1,2025-02-03,Fuel,56.74,expense,Transport
+TXN-202502-00127,1,2025-02-04,Bus,2.4,expense,Transport
+TXN-202502-00128,1,2025-02-04,Household Shopping,38.21,expense,Shopping
+TXN-202502-00174,2,2025-02-04,Games,35.01,expense,Entertainment
+TXN-202502-00095,1,2025-02-05,Electricity,130.53,expense,Utilities
+TXN-202502-00137,2,2025-02-05,Maintenance,83.39,expense,Housing
+TXN-202502-00138,2,2025-02-05,Electricity,136.15,expense,Utilities
+TXN-202502-00111,1,2025-02-06,Grocery Store,43.5,expense,Food
+TXN-202502-00154,2,2025-02-06,Restaurant,57.9,expense,Food
+TXN-202502-00106,1,2025-02-07,Grocery Store,156.09,expense,Food
+TXN-202502-00116,1,2025-02-07,Restaurant,46.99,expense,Food
+TXN-202502-00121,1,2025-02-07,Metro,3.6,expense,Transport
+TXN-202502-00096,1,2025-02-08,Water Bill,52.56,expense,Utilities
+TXN-202502-00139,2,2025-02-08,Water Bill,47.28,expense,Utilities
+TXN-202502-00152,2,2025-02-08,Food Delivery,56.66,expense,Food
+TXN-202502-00117,1,2025-02-09,Grocery Store,118.96,expense,Food
+TXN-202502-00165,2,2025-02-09,Fuel,68.69,expense,Transport
+TXN-202502-00166,2,2025-02-09,Fuel,55.88,expense,Transport
+TXN-202502-00097,1,2025-02-10,Internet,69.99,expense,Utilities
+TXN-202502-00129,1,2025-02-10,Household Shopping,86.0,expense,Shopping
+TXN-202502-00140,2,2025-02-10,Internet,69.99,expense,Utilities
+TXN-202502-00147,2,2025-02-10,Grocery Store,181.96,expense,Food
+TXN-202502-00175,2,2025-02-10,Events,87.27,expense,Entertainment
+TXN-202502-00108,1,2025-02-11,Grocery Store,108.02,expense,Food
+TXN-202502-00164,2,2025-02-11,Bus,2.35,expense,Transport
+TXN-202502-00173,2,2025-02-11,Events,121.67,expense,Entertainment
+TXN-202502-00094,1,2025-02-12,Maintenance,111.1,expense,Housing
+TXN-202502-00098,1,2025-02-12,Mobile Bill,45.0,expense,Utilities
+TXN-202502-00122,1,2025-02-12,Bus,4.64,expense,Transport
+TXN-202502-00123,1,2025-02-12,Fuel,50.34,expense,Transport
+TXN-202502-00141,2,2025-02-12,Mobile Bill,45.0,expense,Utilities
+TXN-202502-00167,2,2025-02-12,Cab,20.16,expense,Transport
+TXN-202502-00102,1,2025-02-13,Grocery Store,83.8,expense,Food
+TXN-202502-00161,2,2025-02-13,Fuel,65.25,expense,Transport
+TXN-202502-00163,2,2025-02-13,Cab,33.94,expense,Transport
+TXN-202502-00177,2,2025-02-13,Doctor,142.22,expense,Healthcare
+TXN-202502-00099,1,2025-02-14,Netflix,15.99,expense,Subscription
+TXN-202502-00142,2,2025-02-14,Netflix,15.99,expense,Subscription
+TXN-202502-00155,2,2025-02-14,Food Delivery,52.22,expense,Food
+TXN-202502-00100,1,2025-02-15,Spotify,10.99,expense,Subscription
+TXN-202502-00118,1,2025-02-15,Fuel,61.32,expense,Transport
+TXN-202502-00143,2,2025-02-15,Spotify,10.99,expense,Subscription
+TXN-202502-00159,2,2025-02-15,Grocery Store,165.08,expense,Food
+TXN-202502-00131,1,2025-02-16,Movies,35.89,expense,Entertainment
+TXN-202502-00109,1,2025-02-17,Food Delivery,32.53,expense,Food
+TXN-202502-00101,1,2025-02-18,Cloud Subscription,20.0,expense,Subscription
+TXN-202502-00105,1,2025-02-18,Restaurant,59.07,expense,Food
+TXN-202502-00124,1,2025-02-18,Cab,27.9,expense,Transport
+TXN-202502-00144,2,2025-02-18,Cloud Subscription,20.0,expense,Subscription
+TXN-202502-00145,2,2025-02-18,Grocery Store,97.38,expense,Food
+TXN-202502-00146,2,2025-02-18,Grocery Store,61.12,expense,Food
+TXN-202502-00107,1,2025-02-19,Restaurant,29.27,expense,Food
+TXN-202502-00113,1,2025-02-19,Grocery Store,109.31,expense,Food
+TXN-202502-00115,1,2025-02-19,Restaurant,90.43,expense,Food
+TXN-202502-00120,1,2025-02-19,Bus,2.22,expense,Transport
+TXN-202502-00169,2,2025-02-19,Fuel,36.55,expense,Transport
+TXN-202502-00114,1,2025-02-20,Grocery Store,117.17,expense,Food
+TXN-202502-00151,2,2025-02-20,Restaurant,107.76,expense,Food
+TXN-202502-00168,2,2025-02-20,Bus,2.35,expense,Transport
+TXN-202502-00132,1,2025-02-21,Pharmacy,26.07,expense,Healthcare
+TXN-202502-00130,1,2025-02-22,Events,67.44,expense,Entertainment
+TXN-202502-00149,2,2025-02-22,Grocery Store,57.42,expense,Food
+TXN-202502-00171,2,2025-02-22,Household Shopping,105.68,expense,Shopping
+TXN-202502-00172,2,2025-02-22,Clothing,120.46,expense,Shopping
+TXN-202502-00104,1,2025-02-23,Food Delivery,47.85,expense,Food
+TXN-202502-00157,2,2025-02-23,Grocery Store,172.83,expense,Food
+TXN-202502-00176,2,2025-02-23,Movies,17.93,expense,Entertainment
+TXN-202502-00135,2,2025-02-24,Freelance Income,1009.61,income,Income
+TXN-202502-00133,1,2025-02-25,Miscellaneous,20.24,expense,Other
+TXN-202502-00150,2,2025-02-25,Restaurant,103.48,expense,Food
+TXN-202502-00162,2,2025-02-25,Fuel,57.45,expense,Transport
+TXN-202502-00103,1,2025-02-26,Food Delivery,24.41,expense,Food
+TXN-202502-00125,1,2025-02-26,Cab,12.2,expense,Transport
+TXN-202502-00153,2,2025-02-26,Grocery Store,103.84,expense,Food
+TXN-202502-00156,2,2025-02-26,Grocery Store,65.88,expense,Food
+TXN-202502-00126,1,2025-02-27,Metro,7.19,expense,Transport
+TXN-202502-00112,1,2025-02-28,Grocery Store,49.99,expense,Food
+TXN-202502-00148,2,2025-02-28,Grocery Store,95.67,expense,Food
+TXN-202502-00158,2,2025-02-28,Restaurant,46.76,expense,Food
+TXN-202502-00160,2,2025-02-28,Grocery Store,45.55,expense,Food
+TXN-202503-00178,1,2025-03-01,Salary,5010.19,income,Income
+TXN-202503-00199,1,2025-03-01,Food Delivery,43.39,expense,Food
+TXN-202503-00225,2,2025-03-01,Salary,6530.86,income,Income
+TXN-202503-00271,2,2025-03-01,Pharmacy,22.64,expense,Healthcare
+TXN-202503-00179,1,2025-03-02,Rent,1350.0,expense,Housing
+TXN-202503-00217,1,2025-03-02,Fuel,49.71,expense,Transport
+TXN-202503-00227,2,2025-03-02,Rent,1800.0,expense,Housing
+TXN-202503-00241,2,2025-03-02,Food Delivery,31.86,expense,Food
+TXN-202503-00243,2,2025-03-02,Food Delivery,55.6,expense,Food
+TXN-202503-00212,1,2025-03-03,Cab,18.1,expense,Transport
+TXN-202503-00235,2,2025-03-03,Restaurant,41.4,expense,Food
+TXN-202503-00240,2,2025-03-03,Restaurant,92.92,expense,Food
+TXN-202503-00181,1,2025-03-05,Electricity,125.0,expense,Utilities
+TXN-202503-00214,1,2025-03-05,Fuel,48.41,expense,Transport
+TXN-202503-00215,1,2025-03-05,Cab,13.67,expense,Transport
+TXN-202503-00228,2,2025-03-05,Electricity,107.39,expense,Utilities
+TXN-202503-00201,1,2025-03-06,Food Delivery,37.97,expense,Food
+TXN-202503-00194,1,2025-03-07,Grocery Store,40.78,expense,Food
+TXN-202503-00197,1,2025-03-07,Restaurant,51.88,expense,Food
+TXN-202503-00244,2,2025-03-07,Food Delivery,42.6,expense,Food
+TXN-202503-00269,2,2025-03-07,Movies,20.94,expense,Entertainment
+TXN-202503-00182,1,2025-03-08,Water Bill,45.17,expense,Utilities
+TXN-202503-00193,1,2025-03-08,Restaurant,40.72,expense,Food
+TXN-202503-00229,2,2025-03-08,Water Bill,52.67,expense,Utilities
+TXN-202503-00245,2,2025-03-08,Grocery Store,142.42,expense,Food
+TXN-202503-00265,2,2025-03-08,Household Shopping,38.84,expense,Shopping
+TXN-202503-00180,1,2025-03-09,Maintenance,90.76,expense,Housing
+TXN-202503-00247,2,2025-03-09,Food Delivery,24.64,expense,Food
+TXN-202503-00270,2,2025-03-09,Games,55.05,expense,Entertainment
+TXN-202503-00183,1,2025-03-10,Internet,69.99,expense,Utilities
+TXN-202503-00191,1,2025-03-10,Restaurant,69.31,expense,Food
+TXN-202503-00230,2,2025-03-10,Internet,69.99,expense,Utilities
+TXN-202503-00192,1,2025-03-11,Grocery Store,154.0,expense,Food
+TXN-202503-00213,1,2025-03-11,Fuel,53.91,expense,Transport
+TXN-202503-00237,2,2025-03-11,Grocery Store,91.03,expense,Food
+TXN-202503-00184,1,2025-03-12,Mobile Bill,45.0,expense,Utilities
+TXN-202503-00231,2,2025-03-12,Mobile Bill,45.0,expense,Utilities
+TXN-202503-00260,2,2025-03-12,Metro,6.73,expense,Transport
+TXN-202503-00198,1,2025-03-13,Grocery Store,117.01,expense,Food
+TXN-202503-00185,1,2025-03-14,Netflix,15.99,expense,Subscription
+TXN-202503-00207,1,2025-03-14,Cab,26.24,expense,Transport
+TXN-202503-00216,1,2025-03-14,Fuel,51.31,expense,Transport
+TXN-202503-00232,2,2025-03-14,Netflix,15.99,expense,Subscription
+TXN-202503-00257,2,2025-03-14,Cab,13.79,expense,Transport
+TXN-202503-00272,2,2025-03-14,Miscellaneous,42.78,expense,Other
+TXN-202503-00186,1,2025-03-15,Spotify,10.99,expense,Subscription
+TXN-202503-00188,1,2025-03-15,Grocery Store,119.45,expense,Food
+TXN-202503-00196,1,2025-03-15,Grocery Store,113.72,expense,Food
+TXN-202503-00202,1,2025-03-15,Grocery Store,66.15,expense,Food
+TXN-202503-00204,1,2025-03-15,Restaurant,94.15,expense,Food
+TXN-202503-00206,1,2025-03-15,Restaurant,75.35,expense,Food
+TXN-202503-00209,1,2025-03-15,Fuel,43.65,expense,Transport
+TXN-202503-00233,2,2025-03-15,Spotify,10.99,expense,Subscription
+TXN-202503-00236,2,2025-03-15,Grocery Store,81.02,expense,Food
+TXN-202503-00195,1,2025-03-16,Restaurant,78.79,expense,Food
+TXN-202503-00211,1,2025-03-16,Metro,4.24,expense,Transport
+TXN-202503-00220,1,2025-03-16,Clothing,89.25,expense,Shopping
+TXN-202503-00224,1,2025-03-16,Pharmacy,28.45,expense,Healthcare
+TXN-202503-00268,2,2025-03-16,Games,29.08,expense,Entertainment
+TXN-202503-00189,1,2025-03-17,Restaurant,88.08,expense,Food
+TXN-202503-00262,2,2025-03-17,Bus,2.81,expense,Transport
+TXN-202503-00187,1,2025-03-18,Cloud Subscription,20.0,expense,Subscription
+TXN-202503-00222,1,2025-03-18,Games,47.3,expense,Entertainment
+TXN-202503-00234,2,2025-03-18,Cloud Subscription,20.0,expense,Subscription
+TXN-202503-00246,2,2025-03-19,Food Delivery,36.42,expense,Food
+TXN-202503-00250,2,2025-03-19,Fuel,45.92,expense,Transport
+TXN-202503-00256,2,2025-03-19,Cab,21.03,expense,Transport
+TXN-202503-00205,1,2025-03-20,Grocery Store,129.41,expense,Food
+TXN-202503-00223,1,2025-03-20,Games,44.4,expense,Entertainment
+TXN-202503-00248,2,2025-03-20,Food Delivery,46.45,expense,Food
+TXN-202503-00255,2,2025-03-20,Cab,32.7,expense,Transport
+TXN-202503-00267,2,2025-03-20,Events,88.31,expense,Entertainment
+TXN-202503-00210,1,2025-03-21,Fuel,62.22,expense,Transport
+TXN-202503-00242,2,2025-03-21,Grocery Store,185.59,expense,Food
+TXN-202503-00258,2,2025-03-21,Fuel,64.74,expense,Transport
+TXN-202503-00251,2,2025-03-22,Bus,3.13,expense,Transport
+TXN-202503-00253,2,2025-03-23,Cab,18.31,expense,Transport
+TXN-202503-00254,2,2025-03-23,Cab,34.11,expense,Transport
+TXN-202503-00261,2,2025-03-23,Fuel,41.16,expense,Transport
+TXN-202503-00226,2,2025-03-24,Freelance Income,1362.76,income,Income
+TXN-202503-00264,2,2025-03-24,Electronics,184.16,expense,Shopping
+TXN-202503-00238,2,2025-03-25,Food Delivery,29.02,expense,Food
+TXN-202503-00263,2,2025-03-25,Electronics,223.58,expense,Shopping
+TXN-202503-00190,1,2025-03-26,Restaurant,71.12,expense,Food
+TXN-202503-00249,2,2025-03-27,Fuel,45.89,expense,Transport
+TXN-202503-00259,2,2025-03-27,Metro,4.95,expense,Transport
+TXN-202503-00203,1,2025-03-28,Grocery Store,51.67,expense,Food
+TXN-202503-00219,1,2025-03-28,Household Shopping,73.93,expense,Shopping
+TXN-202503-00221,1,2025-03-28,Games,61.78,expense,Entertainment
+TXN-202503-00200,1,2025-03-29,Grocery Store,88.14,expense,Food
+TXN-202503-00208,1,2025-03-29,Fuel,65.15,expense,Transport
+TXN-202503-00218,1,2025-03-29,Cab,36.6,expense,Transport
+TXN-202503-00266,2,2025-03-29,Electronics,333.17,expense,Shopping
+TXN-202503-00239,2,2025-03-31,Food Delivery,27.99,expense,Food
+TXN-202503-00252,2,2025-03-31,Cab,13.98,expense,Transport
+TXN-202504-00273,1,2025-04-01,Salary,5101.63,income,Income
+TXN-202504-00297,1,2025-04-01,Metro,5.11,expense,Transport
+TXN-202504-00318,2,2025-04-01,Salary,6631.68,income,Income
+TXN-202504-00334,2,2025-04-01,Food Delivery,44.62,expense,Food
+TXN-202504-00274,1,2025-04-02,Rent,1350.0,expense,Housing
+TXN-202504-00313,1,2025-04-02,Movies,31.26,expense,Entertainment
+TXN-202504-00319,2,2025-04-02,Rent,1800.0,expense,Housing
+TXN-202504-00331,2,2025-04-02,Food Delivery,47.09,expense,Food
+TXN-202504-00347,2,2025-04-02,Fuel,47.66,expense,Transport
+TXN-202504-00349,2,2025-04-02,Fuel,54.22,expense,Transport
+TXN-202504-00303,1,2025-04-03,Bus,2.36,expense,Transport
+TXN-202504-00339,2,2025-04-03,Restaurant,64.3,expense,Food
+TXN-202504-00287,1,2025-04-04,Restaurant,47.09,expense,Food
+TXN-202504-00309,1,2025-04-04,Bus,2.62,expense,Transport
+TXN-202504-00275,1,2025-04-05,Electricity,104.36,expense,Utilities
+TXN-202504-00294,1,2025-04-05,Grocery Store,156.79,expense,Food
+TXN-202504-00302,1,2025-04-05,Cab,36.68,expense,Transport
+TXN-202504-00321,2,2025-04-05,Electricity,111.65,expense,Utilities
+TXN-202504-00289,1,2025-04-06,Grocery Store,127.33,expense,Food
+TXN-202504-00293,1,2025-04-06,Grocery Store,123.5,expense,Food
+TXN-202504-00311,1,2025-04-06,Electronics,105.39,expense,Shopping
+TXN-202504-00336,2,2025-04-06,Restaurant,84.73,expense,Food
+TXN-202504-00310,1,2025-04-07,Fuel,37.84,expense,Transport
+TXN-202504-00320,2,2025-04-07,Maintenance,134.45,expense,Housing
+TXN-202504-00276,1,2025-04-08,Water Bill,49.82,expense,Utilities
+TXN-202504-00315,1,2025-04-08,Games,59.38,expense,Entertainment
+TXN-202504-00317,1,2025-04-08,Miscellaneous,52.8,expense,Other
+TXN-202504-00322,2,2025-04-08,Water Bill,50.61,expense,Utilities
+TXN-202504-00354,2,2025-04-08,Household Shopping,123.12,expense,Shopping
+TXN-202504-00290,1,2025-04-09,Restaurant,93.36,expense,Food
+TXN-202504-00299,1,2025-04-09,Bus,3.43,expense,Transport
+TXN-202504-00335,2,2025-04-09,Restaurant,94.1,expense,Food
+TXN-202504-00344,2,2025-04-09,Grocery Store,187.53,expense,Food
+TXN-202504-00277,1,2025-04-10,Internet,69.99,expense,Utilities
+TXN-202504-00282,1,2025-04-10,Grocery Store,121.47,expense,Food
+TXN-202504-00283,1,2025-04-10,Restaurant,50.83,expense,Food
+TXN-202504-00323,2,2025-04-10,Internet,69.99,expense,Utilities
+TXN-202504-00353,2,2025-04-10,Metro,5.49,expense,Transport
+TXN-202504-00340,2,2025-04-11,Restaurant,102.05,expense,Food
+TXN-202504-00341,2,2025-04-11,Grocery Store,116.32,expense,Food
+TXN-202504-00278,1,2025-04-12,Mobile Bill,45.0,expense,Utilities
+TXN-202504-00324,2,2025-04-12,Mobile Bill,45.0,expense,Utilities
+TXN-202504-00345,2,2025-04-13,Food Delivery,50.67,expense,Food
+TXN-202504-00279,1,2025-04-14,Netflix,15.99,expense,Subscription
+TXN-202504-00312,1,2025-04-14,Electronics,232.21,expense,Shopping
+TXN-202504-00325,2,2025-04-14,Netflix,15.99,expense,Subscription
+TXN-202504-00338,2,2025-04-14,Restaurant,71.3,expense,Food
+TXN-202504-00280,1,2025-04-15,Spotify,10.99,expense,Subscription
+TXN-202504-00286,1,2025-04-15,Grocery Store,66.43,expense,Food
+TXN-202504-00298,1,2025-04-15,Fuel,68.79,expense,Transport
+TXN-202504-00306,1,2025-04-15,Bus,2.89,expense,Transport
+TXN-202504-00326,2,2025-04-15,Spotify,10.99,expense,Subscription
+TXN-202504-00328,2,2025-04-15,Grocery Store,145.3,expense,Food
+TXN-202504-00355,2,2025-04-15,Household Shopping,96.07,expense,Shopping
+TXN-202504-00351,2,2025-04-16,Fuel,69.06,expense,Transport
+TXN-202504-00356,2,2025-04-16,Games,34.58,expense,Entertainment
+TXN-202504-00291,1,2025-04-17,Restaurant,93.64,expense,Food
+TXN-202504-00281,1,2025-04-18,Cloud Subscription,20.0,expense,Subscription
+TXN-202504-00284,1,2025-04-18,Restaurant,54.79,expense,Food
+TXN-202504-00295,1,2025-04-18,Grocery Store,153.01,expense,Food
+TXN-202504-00327,2,2025-04-18,Cloud Subscription,20.0,expense,Subscription
+TXN-202504-00330,2,2025-04-18,Restaurant,36.76,expense,Food
+TXN-202504-00343,2,2025-04-18,Grocery Store,55.21,expense,Food
+TXN-202504-00358,2,2025-04-18,Miscellaneous,21.11,expense,Other
+TXN-202504-00301,1,2025-04-19,Metro,3.24,expense,Transport
+TXN-202504-00307,1,2025-04-19,Bus,2.92,expense,Transport
+TXN-202504-00305,1,2025-04-20,Fuel,53.29,expense,Transport
+TXN-202504-00308,1,2025-04-20,Fuel,68.6,expense,Transport
+TXN-202504-00332,2,2025-04-20,Grocery Store,55.7,expense,Food
+TXN-202504-00352,2,2025-04-20,Cab,30.45,expense,Transport
+TXN-202504-00296,1,2025-04-21,Food Delivery,31.2,expense,Food
+TXN-202504-00316,1,2025-04-22,Doctor,85.83,expense,Healthcare
+TXN-202504-00333,2,2025-04-22,Food Delivery,40.78,expense,Food
+TXN-202504-00342,2,2025-04-22,Food Delivery,50.22,expense,Food
+TXN-202504-00346,2,2025-04-22,Bus,3.39,expense,Transport
+TXN-202504-00314,1,2025-04-23,Games,23.55,expense,Entertainment
+TXN-202504-00329,2,2025-04-23,Grocery Store,82.84,expense,Food
+TXN-202504-00357,2,2025-04-23,Movies,34.2,expense,Entertainment
+TXN-202504-00285,1,2025-04-24,Restaurant,49.63,expense,Food
+TXN-202504-00288,1,2025-04-24,Restaurant,78.35,expense,Food
+TXN-202504-00304,1,2025-04-25,Metro,5.68,expense,Transport
+TXN-202504-00348,2,2025-04-25,Metro,4.99,expense,Transport
+TXN-202504-00292,1,2025-04-27,Grocery Store,63.44,expense,Food
+TXN-202504-00300,1,2025-04-27,Fuel,52.21,expense,Transport
+TXN-202504-00337,2,2025-04-30,Grocery Store,191.54,expense,Food
+TXN-202504-00350,2,2025-04-30,Fuel,65.83,expense,Transport
+TXN-202505-00359,1,2025-05-01,Salary,4988.12,income,Income
+TXN-202505-00402,2,2025-05-01,Salary,6481.6,income,Income
+TXN-202505-00415,2,2025-05-01,Food Delivery,44.07,expense,Food
+TXN-202505-00360,1,2025-05-02,Rent,1350.0,expense,Housing
+TXN-202505-00395,1,2025-05-02,Fuel,48.12,expense,Transport
+TXN-202505-00403,2,2025-05-02,Rent,1800.0,expense,Housing
+TXN-202505-00425,2,2025-05-02,Restaurant,91.52,expense,Food
+TXN-202505-00426,2,2025-05-03,Food Delivery,30.94,expense,Food
+TXN-202505-00436,2,2025-05-03,Cab,12.36,expense,Transport
+TXN-202505-00381,1,2025-05-04,Food Delivery,29.53,expense,Food
+TXN-202505-00392,1,2025-05-04,Cab,30.3,expense,Transport
+TXN-202505-00393,1,2025-05-04,Metro,6.12,expense,Transport
+TXN-202505-00413,2,2025-05-04,Grocery Store,127.79,expense,Food
+TXN-202505-00444,2,2025-05-04,Movies,36.76,expense,Entertainment
+TXN-202505-00361,1,2025-05-05,Electricity,95.47,expense,Utilities
+TXN-202505-00379,1,2025-05-05,Restaurant,27.59,expense,Food
+TXN-202505-00383,1,2025-05-05,Grocery Store,116.85,expense,Food
+TXN-202505-00384,1,2025-05-05,Grocery Store,132.69,expense,Food
+TXN-202505-00396,1,2025-05-05,Fuel,49.42,expense,Transport
+TXN-202505-00405,2,2025-05-05,Electricity,119.64,expense,Utilities
+TXN-202505-00423,2,2025-05-05,Restaurant,105.89,expense,Food
+TXN-202505-00433,2,2025-05-05,Cab,17.87,expense,Transport
+TXN-202505-00412,2,2025-05-07,Food Delivery,51.79,expense,Food
+TXN-202505-00421,2,2025-05-07,Restaurant,86.93,expense,Food
+TXN-202505-00362,1,2025-05-08,Water Bill,31.75,expense,Utilities
+TXN-202505-00390,1,2025-05-08,Metro,7.14,expense,Transport
+TXN-202505-00391,1,2025-05-08,Cab,23.28,expense,Transport
+TXN-202505-00399,1,2025-05-08,Electronics,229.12,expense,Shopping
+TXN-202505-00406,2,2025-05-08,Water Bill,36.25,expense,Utilities
+TXN-202505-00440,2,2025-05-08,Electronics,287.6,expense,Shopping
+TXN-202505-00442,2,2025-05-08,Household Shopping,94.81,expense,Shopping
+TXN-202505-00446,2,2025-05-08,Games,26.77,expense,Entertainment
+TXN-202505-00385,1,2025-05-09,Grocery Store,121.59,expense,Food
+TXN-202505-00404,2,2025-05-09,Maintenance,122.92,expense,Housing
+TXN-202505-00416,2,2025-05-09,Grocery Store,171.76,expense,Food
+TXN-202505-00363,1,2025-05-10,Internet,69.99,expense,Utilities
+TXN-202505-00407,2,2025-05-10,Internet,69.99,expense,Utilities
+TXN-202505-00445,2,2025-05-10,Games,25.8,expense,Entertainment
+TXN-202505-00368,1,2025-05-11,Food Delivery,31.76,expense,Food
+TXN-202505-00364,1,2025-05-12,Mobile Bill,45.0,expense,Utilities
+TXN-202505-00408,2,2025-05-12,Mobile Bill,45.0,expense,Utilities
+TXN-202505-00365,1,2025-05-14,Netflix,15.99,expense,Subscription
+TXN-202505-00376,1,2025-05-14,Grocery Store,128.09,expense,Food
+TXN-202505-00409,2,2025-05-14,Netflix,15.99,expense,Subscription
+TXN-202505-00427,2,2025-05-14,Grocery Store,61.82,expense,Food
+TXN-202505-00366,1,2025-05-15,Spotify,10.99,expense,Subscription
+TXN-202505-00400,1,2025-05-15,Events,84.06,expense,Entertainment
+TXN-202505-00410,2,2025-05-15,Spotify,10.99,expense,Subscription
+TXN-202505-00443,2,2025-05-15,Household Shopping,60.82,expense,Shopping
+TXN-202505-00371,1,2025-05-16,Food Delivery,29.74,expense,Food
+TXN-202505-00372,1,2025-05-16,Grocery Store,103.99,expense,Food
+TXN-202505-00380,1,2025-05-17,Food Delivery,25.96,expense,Food
+TXN-202505-00382,1,2025-05-17,Food Delivery,15.51,expense,Food
+TXN-202505-00429,2,2025-05-17,Food Delivery,50.89,expense,Food
+TXN-202505-00367,1,2025-05-18,Cloud Subscription,20.0,expense,Subscription
+TXN-202505-00373,1,2025-05-18,Grocery Store,151.61,expense,Food
+TXN-202505-00411,2,2025-05-18,Cloud Subscription,20.0,expense,Subscription
+TXN-202505-00428,2,2025-05-18,Food Delivery,32.49,expense,Food
+TXN-202505-00437,2,2025-05-18,Fuel,47.9,expense,Transport
+TXN-202505-00375,1,2025-05-19,Grocery Store,142.0,expense,Food
+TXN-202505-00414,2,2025-05-19,Grocery Store,146.89,expense,Food
+TXN-202505-00448,2,2025-05-19,Miscellaneous,58.76,expense,Other
+TXN-202505-00398,1,2025-05-20,Household Shopping,77.68,expense,Shopping
+TXN-202505-00418,2,2025-05-20,Restaurant,99.96,expense,Food
+TXN-202505-00420,2,2025-05-20,Food Delivery,26.67,expense,Food
+TXN-202505-00386,1,2025-05-21,Grocery Store,76.07,expense,Food
+TXN-202505-00388,1,2025-05-21,Cab,31.74,expense,Transport
+TXN-202505-00424,2,2025-05-21,Grocery Store,160.29,expense,Food
+TXN-202505-00378,1,2025-05-22,Food Delivery,36.52,expense,Food
+TXN-202505-00387,1,2025-05-22,Food Delivery,27.54,expense,Food
+TXN-202505-00397,1,2025-05-22,Cab,16.42,expense,Transport
+TXN-202505-00401,1,2025-05-22,Movies,33.51,expense,Entertainment
+TXN-202505-00434,2,2025-05-22,Cab,37.48,expense,Transport
+TXN-202505-00447,2,2025-05-22,Medical,95.72,expense,Healthcare
+TXN-202505-00377,1,2025-05-23,Food Delivery,27.58,expense,Food
+TXN-202505-00422,2,2025-05-24,Food Delivery,44.96,expense,Food
+TXN-202505-00438,2,2025-05-24,Cab,27.2,expense,Transport
+TXN-202505-00417,2,2025-05-25,Restaurant,34.12,expense,Food
+TXN-202505-00431,2,2025-05-26,Fuel,65.46,expense,Transport
+TXN-202505-00432,2,2025-05-26,Fuel,68.7,expense,Transport
+TXN-202505-00369,1,2025-05-27,Grocery Store,125.76,expense,Food
+TXN-202505-00370,1,2025-05-27,Restaurant,94.92,expense,Food
+TXN-202505-00439,2,2025-05-27,Metro,4.67,expense,Transport
+TXN-202505-00374,1,2025-05-28,Grocery Store,122.19,expense,Food
+TXN-202505-00389,1,2025-05-28,Metro,5.78,expense,Transport
+TXN-202505-00394,1,2025-05-29,Fuel,46.35,expense,Transport
+TXN-202505-00419,2,2025-05-29,Grocery Store,161.83,expense,Food
+TXN-202505-00430,2,2025-05-30,Cab,24.53,expense,Transport
+TXN-202505-00435,2,2025-05-31,Cab,26.49,expense,Transport
+TXN-202505-00441,2,2025-05-31,Electronics,390.51,expense,Shopping
+TXN-202506-00449,1,2025-06-01,Salary,4980.9,income,Income
+TXN-202506-00492,2,2025-06-01,Salary,6517.79,income,Income
+TXN-202506-00533,2,2025-06-01,Movies,36.74,expense,Entertainment
+TXN-202506-00535,2,2025-06-01,Pharmacy,32.23,expense,Healthcare
+TXN-202506-00451,1,2025-06-02,Rent,1350.0,expense,Housing
+TXN-202506-00462,1,2025-06-02,Grocery Store,58.73,expense,Food
+TXN-202506-00482,1,2025-06-02,Bus,4.54,expense,Transport
+TXN-202506-00494,2,2025-06-02,Rent,1800.0,expense,Housing
+TXN-202506-00509,2,2025-06-02,Food Delivery,41.78,expense,Food
+TXN-202506-00464,1,2025-06-03,Restaurant,69.92,expense,Food
+TXN-202506-00477,1,2025-06-03,Metro,6.5,expense,Transport
+TXN-202506-00503,2,2025-06-03,Food Delivery,21.69,expense,Food
+TXN-202506-00522,2,2025-06-03,Cab,17.59,expense,Transport
+TXN-202506-00527,2,2025-06-03,Clothing,159.21,expense,Shopping
+TXN-202506-00463,1,2025-06-04,Food Delivery,42.2,expense,Food
+TXN-202506-00504,2,2025-06-04,Restaurant,61.3,expense,Food
+TXN-202506-00512,2,2025-06-04,Grocery Store,125.44,expense,Food
+TXN-202506-00513,2,2025-06-04,Food Delivery,40.73,expense,Food
+TXN-202506-00452,1,2025-06-05,Electricity,107.5,expense,Utilities
+TXN-202506-00496,2,2025-06-05,Electricity,96.82,expense,Utilities
+TXN-202506-00505,2,2025-06-05,Restaurant,79.26,expense,Food
+TXN-202506-00511,2,2025-06-05,Restaurant,48.84,expense,Food
+TXN-202506-00520,2,2025-06-05,Metro,4.8,expense,Transport
+TXN-202506-00521,2,2025-06-05,Cab,37.27,expense,Transport
+TXN-202506-00526,2,2025-06-05,Fuel,56.62,expense,Transport
+TXN-202506-00529,2,2025-06-07,Household Shopping,41.61,expense,Shopping
+TXN-202506-00453,1,2025-06-08,Water Bill,47.26,expense,Utilities
+TXN-202506-00479,1,2025-06-08,Bus,2.13,expense,Transport
+TXN-202506-00497,2,2025-06-08,Water Bill,53.07,expense,Utilities
+TXN-202506-00532,2,2025-06-08,Movies,28.78,expense,Entertainment
+TXN-202506-00495,2,2025-06-09,Maintenance,103.07,expense,Housing
+TXN-202506-00518,2,2025-06-09,Cab,20.03,expense,Transport
+TXN-202506-00454,1,2025-06-10,Internet,69.99,expense,Utilities
+TXN-202506-00481,1,2025-06-10,Metro,7.34,expense,Transport
+TXN-202506-00498,2,2025-06-10,Internet,69.99,expense,Utilities
+TXN-202506-00524,2,2025-06-10,Cab,32.2,expense,Transport
+TXN-202506-00466,1,2025-06-11,Grocery Store,50.74,expense,Food
+TXN-202506-00475,1,2025-06-11,Grocery Store,68.17,expense,Food
+TXN-202506-00487,1,2025-06-11,Clothing,123.63,expense,Shopping
+TXN-202506-00519,2,2025-06-11,Fuel,41.35,expense,Transport
+TXN-202506-00455,1,2025-06-12,Mobile Bill,45.0,expense,Utilities
+TXN-202506-00460,1,2025-06-12,Grocery Store,120.71,expense,Food
+TXN-202506-00474,1,2025-06-12,Food Delivery,22.85,expense,Food
+TXN-202506-00499,2,2025-06-12,Mobile Bill,45.0,expense,Utilities
+TXN-202506-00510,2,2025-06-12,Grocery Store,118.11,expense,Food
+TXN-202506-00456,1,2025-06-14,Netflix,15.99,expense,Subscription
+TXN-202506-00483,1,2025-06-14,Cab,24.75,expense,Transport
+TXN-202506-00500,2,2025-06-14,Netflix,15.99,expense,Subscription
+TXN-202506-00507,2,2025-06-14,Grocery Store,141.8,expense,Food
+TXN-202506-00523,2,2025-06-14,Metro,3.71,expense,Transport
+TXN-202506-00530,2,2025-06-14,Clothing,161.94,expense,Shopping
+TXN-202506-00457,1,2025-06-15,Spotify,10.99,expense,Subscription
+TXN-202506-00459,1,2025-06-15,Grocery Store,64.51,expense,Food
+TXN-202506-00488,1,2025-06-15,Events,81.57,expense,Entertainment
+TXN-202506-00501,2,2025-06-15,Spotify,10.99,expense,Subscription
+TXN-202506-00528,2,2025-06-16,Household Shopping,72.25,expense,Shopping
+TXN-202506-00531,2,2025-06-16,Events,85.46,expense,Entertainment
+TXN-202506-00478,1,2025-06-17,Metro,5.03,expense,Transport
+TXN-202506-00458,1,2025-06-18,Cloud Subscription,20.0,expense,Subscription
+TXN-202506-00461,1,2025-06-18,Food Delivery,36.28,expense,Food
+TXN-202506-00468,1,2025-06-18,Grocery Store,61.99,expense,Food
+TXN-202506-00472,1,2025-06-18,Grocery Store,56.81,expense,Food
+TXN-202506-00502,2,2025-06-18,Cloud Subscription,20.0,expense,Subscription
+TXN-202506-00506,2,2025-06-18,Restaurant,86.28,expense,Food
+TXN-202506-00536,2,2025-06-18,Miscellaneous,56.33,expense,Other
+TXN-202506-00467,1,2025-06-19,Grocery Store,138.73,expense,Food
+TXN-202506-00525,2,2025-06-19,Metro,6.98,expense,Transport
+TXN-202506-00465,1,2025-06-20,Food Delivery,16.67,expense,Food
+TXN-202506-00485,1,2025-06-20,Clothing,57.67,expense,Shopping
+TXN-202506-00486,1,2025-06-20,Household Shopping,71.61,expense,Shopping
+TXN-202506-00490,1,2025-06-21,Games,47.56,expense,Entertainment
+TXN-202506-00493,2,2025-06-21,Bonus,1762.59,income,Income
+TXN-202506-00516,2,2025-06-21,Restaurant,81.16,expense,Food
+TXN-202506-00473,1,2025-06-22,Food Delivery,19.35,expense,Food
+TXN-202506-00517,2,2025-06-22,Food Delivery,28.59,expense,Food
+TXN-202506-00476,1,2025-06-24,Metro,3.51,expense,Transport
+TXN-202506-00508,2,2025-06-25,Grocery Store,179.38,expense,Food
+TXN-202506-00515,2,2025-06-25,Food Delivery,42.3,expense,Food
+TXN-202506-00534,2,2025-06-25,Movies,20.88,expense,Entertainment
+TXN-202506-00470,1,2025-06-26,Food Delivery,15.09,expense,Food
+TXN-202506-00480,1,2025-06-26,Bus,3.98,expense,Transport
+TXN-202506-00489,1,2025-06-26,Games,62.63,expense,Entertainment
+TXN-202506-00514,2,2025-06-26,Grocery Store,126.14,expense,Food
+TXN-202506-00450,1,2025-06-27,Bonus,1923.48,income,Income
+TXN-202506-00469,1,2025-06-28,Grocery Store,131.8,expense,Food
+TXN-202506-00471,1,2025-06-28,Food Delivery,47.59,expense,Food
+TXN-202506-00491,1,2025-06-29,Miscellaneous,26.4,expense,Other
+TXN-202506-00484,1,2025-06-30,Metro,7.05,expense,Transport
+TXN-202507-00537,1,2025-07-01,Salary,5050.05,income,Income
+TXN-202507-00577,2,2025-07-01,Salary,6646.48,income,Income
+TXN-202507-00538,1,2025-07-02,Rent,1350.0,expense,Housing
+TXN-202507-00568,1,2025-07-02,Fuel,37.6,expense,Transport
+TXN-202507-00579,2,2025-07-02,Rent,1800.0,expense,Housing
+TXN-202507-00589,2,2025-07-02,Food Delivery,43.63,expense,Food
+TXN-202507-00561,1,2025-07-03,Fuel,62.05,expense,Transport
+TXN-202507-00590,2,2025-07-03,Grocery Store,125.69,expense,Food
+TXN-202507-00549,1,2025-07-04,Grocery Store,155.77,expense,Food
+TXN-202507-00605,2,2025-07-04,Metro,5.43,expense,Transport
+TXN-202507-00621,2,2025-07-04,Games,45.79,expense,Entertainment
+TXN-202507-00622,2,2025-07-04,Movies,32.55,expense,Entertainment
+TXN-202507-00539,1,2025-07-05,Electricity,90.05,expense,Utilities
+TXN-202507-00566,1,2025-07-05,Metro,5.11,expense,Transport
+TXN-202507-00580,2,2025-07-05,Electricity,167.24,expense,Utilities
+TXN-202507-00593,2,2025-07-05,Grocery Store,129.41,expense,Food
+TXN-202507-00594,2,2025-07-05,Food Delivery,30.29,expense,Food
+TXN-202507-00604,2,2025-07-05,Fuel,64.55,expense,Transport
+TXN-202507-00550,1,2025-07-06,Food Delivery,35.4,expense,Food
+TXN-202507-00602,2,2025-07-06,Food Delivery,31.53,expense,Food
+TXN-202507-00540,1,2025-07-08,Water Bill,51.54,expense,Utilities
+TXN-202507-00559,1,2025-07-08,Grocery Store,67.0,expense,Food
+TXN-202507-00581,2,2025-07-08,Water Bill,43.1,expense,Utilities
+TXN-202507-00623,2,2025-07-09,Movies,26.81,expense,Entertainment
+TXN-202507-00541,1,2025-07-10,Internet,69.99,expense,Utilities
+TXN-202507-00570,1,2025-07-10,Clothing,161.0,expense,Shopping
+TXN-202507-00582,2,2025-07-10,Internet,69.99,expense,Utilities
+TXN-202507-00614,2,2025-07-10,Bus,4.35,expense,Transport
+TXN-202507-00555,1,2025-07-11,Food Delivery,17.52,expense,Food
+TXN-202507-00565,1,2025-07-11,Bus,3.88,expense,Transport
+TXN-202507-00607,2,2025-07-11,Bus,3.85,expense,Transport
+TXN-202507-00542,1,2025-07-12,Mobile Bill,45.0,expense,Utilities
+TXN-202507-00583,2,2025-07-12,Mobile Bill,45.0,expense,Utilities
+TXN-202507-00587,2,2025-07-12,Grocery Store,84.43,expense,Food
+TXN-202507-00548,1,2025-07-13,Restaurant,54.24,expense,Food
+TXN-202507-00591,2,2025-07-13,Grocery Store,150.56,expense,Food
+TXN-202507-00543,1,2025-07-14,Netflix,15.99,expense,Subscription
+TXN-202507-00546,1,2025-07-14,Grocery Store,150.15,expense,Food
+TXN-202507-00552,1,2025-07-14,Food Delivery,23.03,expense,Food
+TXN-202507-00584,2,2025-07-14,Netflix,15.99,expense,Subscription
+TXN-202507-00588,2,2025-07-14,Food Delivery,44.88,expense,Food
+TXN-202507-00611,2,2025-07-14,Fuel,60.19,expense,Transport
+TXN-202507-00544,1,2025-07-15,Spotify,10.99,expense,Subscription
+TXN-202507-00569,1,2025-07-15,Clothing,91.62,expense,Shopping
+TXN-202507-00572,1,2025-07-15,Events,126.11,expense,Entertainment
+TXN-202507-00578,2,2025-07-15,Freelance Income,517.58,income,Income
+TXN-202507-00585,2,2025-07-15,Spotify,10.99,expense,Subscription
+TXN-202507-00612,2,2025-07-15,Metro,6.39,expense,Transport
+TXN-202507-00562,1,2025-07-16,Metro,5.54,expense,Transport
+TXN-202507-00603,2,2025-07-16,Fuel,70.0,expense,Transport
+TXN-202507-00620,2,2025-07-16,Games,47.72,expense,Entertainment
+TXN-202507-00575,1,2025-07-17,Pharmacy,17.47,expense,Healthcare
+TXN-202507-00600,2,2025-07-17,Grocery Store,142.57,expense,Food
+TXN-202507-00601,2,2025-07-17,Grocery Store,96.39,expense,Food
+TXN-202507-00545,1,2025-07-18,Cloud Subscription,20.0,expense,Subscription
+TXN-202507-00586,2,2025-07-18,Cloud Subscription,20.0,expense,Subscription
+TXN-202507-00597,2,2025-07-18,Grocery Store,160.75,expense,Food
+TXN-202507-00553,1,2025-07-19,Grocery Store,44.83,expense,Food
+TXN-202507-00563,1,2025-07-19,Metro,7.16,expense,Transport
+TXN-202507-00564,1,2025-07-19,Metro,7.44,expense,Transport
+TXN-202507-00560,1,2025-07-20,Fuel,61.57,expense,Transport
+TXN-202507-00596,2,2025-07-20,Restaurant,37.12,expense,Food
+TXN-202507-00608,2,2025-07-20,Fuel,40.68,expense,Transport
+TXN-202507-00619,2,2025-07-20,Clothing,90.0,expense,Shopping
+TXN-202507-00556,1,2025-07-21,Grocery Store,98.74,expense,Food
+TXN-202507-00567,1,2025-07-21,Fuel,44.61,expense,Transport
+TXN-202507-00595,2,2025-07-21,Restaurant,62.92,expense,Food
+TXN-202507-00592,2,2025-07-22,Food Delivery,41.87,expense,Food
+TXN-202507-00573,1,2025-07-24,Games,42.48,expense,Entertainment
+TXN-202507-00606,2,2025-07-24,Bus,2.11,expense,Transport
+TXN-202507-00617,2,2025-07-25,Clothing,136.61,expense,Shopping
+TXN-202507-00574,1,2025-07-26,Events,61.0,expense,Entertainment
+TXN-202507-00613,2,2025-07-26,Metro,5.4,expense,Transport
+TXN-202507-00551,1,2025-07-27,Restaurant,50.33,expense,Food
+TXN-202507-00598,2,2025-07-27,Grocery Store,147.42,expense,Food
+TXN-202507-00609,2,2025-07-27,Cab,28.24,expense,Transport
+TXN-202507-00547,1,2025-07-28,Grocery Store,88.66,expense,Food
+TXN-202507-00554,1,2025-07-28,Grocery Store,77.44,expense,Food
+TXN-202507-00571,1,2025-07-28,Clothing,123.17,expense,Shopping
+TXN-202507-00557,1,2025-07-29,Food Delivery,26.59,expense,Food
+TXN-202507-00576,1,2025-07-29,Miscellaneous,64.75,expense,Other
+TXN-202507-00610,2,2025-07-29,Fuel,50.32,expense,Transport
+TXN-202507-00615,2,2025-07-29,Cab,21.56,expense,Transport
+TXN-202507-00624,2,2025-07-30,Miscellaneous,25.99,expense,Other
+TXN-202507-00558,1,2025-07-31,Food Delivery,41.9,expense,Food
+TXN-202507-00599,2,2025-07-31,Restaurant,87.57,expense,Food
+TXN-202507-00616,2,2025-07-31,Metro,4.98,expense,Transport
+TXN-202507-00618,2,2025-07-31,Clothing,81.55,expense,Shopping
+TXN-202508-00625,1,2025-08-01,Salary,5040.23,income,Income
+TXN-202508-00668,2,2025-08-01,Salary,6581.15,income,Income
+TXN-202508-00627,1,2025-08-02,Rent,1350.0,expense,Housing
+TXN-202508-00638,1,2025-08-02,Grocery Store,138.72,expense,Food
+TXN-202508-00663,1,2025-08-02,Clothing,46.13,expense,Shopping
+TXN-202508-00666,1,2025-08-02,Doctor,85.29,expense,Healthcare
+TXN-202508-00670,2,2025-08-02,Rent,1800.0,expense,Housing
+TXN-202508-00686,2,2025-08-02,Restaurant,106.58,expense,Food
+TXN-202508-00641,1,2025-08-03,Grocery Store,61.96,expense,Food
+TXN-202508-00646,1,2025-08-03,Grocery Store,148.14,expense,Food
+TXN-202508-00662,1,2025-08-03,Household Shopping,105.21,expense,Shopping
+TXN-202508-00705,2,2025-08-03,Cab,37.16,expense,Transport
+TXN-202508-00714,2,2025-08-03,Movies,37.99,expense,Entertainment
+TXN-202508-00683,2,2025-08-04,Grocery Store,141.14,expense,Food
+TXN-202508-00700,2,2025-08-04,Fuel,44.11,expense,Transport
+TXN-202508-00703,2,2025-08-04,Fuel,37.59,expense,Transport
+TXN-202508-00629,1,2025-08-05,Electricity,139.62,expense,Utilities
+TXN-202508-00642,1,2025-08-05,Restaurant,75.91,expense,Food
+TXN-202508-00672,2,2025-08-05,Electricity,97.07,expense,Utilities
+TXN-202508-00691,2,2025-08-05,Food Delivery,44.85,expense,Food
+TXN-202508-00660,1,2025-08-06,Cab,29.8,expense,Transport
+TXN-202508-00685,2,2025-08-06,Restaurant,59.53,expense,Food
+TXN-202508-00704,2,2025-08-06,Bus,3.34,expense,Transport
+TXN-202508-00630,1,2025-08-08,Water Bill,39.37,expense,Utilities
+TXN-202508-00644,1,2025-08-08,Grocery Store,40.97,expense,Food
+TXN-202508-00673,2,2025-08-08,Water Bill,54.34,expense,Utilities
+TXN-202508-00698,2,2025-08-09,Grocery Store,59.02,expense,Food
+TXN-202508-00626,1,2025-08-10,Freelance Income,731.92,income,Income
+TXN-202508-00628,1,2025-08-10,Maintenance,92.68,expense,Housing
+TXN-202508-00631,1,2025-08-10,Internet,69.99,expense,Utilities
+TXN-202508-00674,2,2025-08-10,Internet,69.99,expense,Utilities
+TXN-202508-00684,2,2025-08-10,Grocery Store,149.65,expense,Food
+TXN-202508-00636,1,2025-08-11,Food Delivery,42.69,expense,Food
+TXN-202508-00706,2,2025-08-11,Cab,30.45,expense,Transport
+TXN-202508-00632,1,2025-08-12,Mobile Bill,45.0,expense,Utilities
+TXN-202508-00655,1,2025-08-12,Fuel,35.57,expense,Transport
+TXN-202508-00659,1,2025-08-12,Metro,6.66,expense,Transport
+TXN-202508-00671,2,2025-08-12,Maintenance,142.1,expense,Housing
+TXN-202508-00675,2,2025-08-12,Mobile Bill,45.0,expense,Utilities
+TXN-202508-00712,2,2025-08-12,Electronics,200.38,expense,Shopping
+TXN-202508-00633,1,2025-08-14,Netflix,15.99,expense,Subscription
+TXN-202508-00645,1,2025-08-14,Restaurant,68.6,expense,Food
+TXN-202508-00649,1,2025-08-14,Grocery Store,79.1,expense,Food
+TXN-202508-00650,1,2025-08-14,Fuel,58.39,expense,Transport
+TXN-202508-00676,2,2025-08-14,Netflix,15.99,expense,Subscription
+TXN-202508-00681,2,2025-08-14,Grocery Store,132.37,expense,Food
+TXN-202508-00634,1,2025-08-15,Spotify,10.99,expense,Subscription
+TXN-202508-00677,2,2025-08-15,Spotify,10.99,expense,Subscription
+TXN-202508-00692,2,2025-08-15,Grocery Store,52.09,expense,Food
+TXN-202508-00696,2,2025-08-15,Food Delivery,40.73,expense,Food
+TXN-202508-00701,2,2025-08-15,Fuel,56.42,expense,Transport
+TXN-202508-00640,1,2025-08-16,Grocery Store,35.66,expense,Food
+TXN-202508-00654,1,2025-08-16,Fuel,48.54,expense,Transport
+TXN-202508-00643,1,2025-08-17,Grocery Store,132.02,expense,Food
+TXN-202508-00651,1,2025-08-17,Bus,2.2,expense,Transport
+TXN-202508-00652,1,2025-08-17,Metro,6.54,expense,Transport
+TXN-202508-00653,1,2025-08-17,Metro,4.76,expense,Transport
+TXN-202508-00665,1,2025-08-17,Movies,33.75,expense,Entertainment
+TXN-202508-00680,2,2025-08-17,Grocery Store,54.39,expense,Food
+TXN-202508-00697,2,2025-08-17,Grocery Store,89.16,expense,Food
+TXN-202508-00710,2,2025-08-17,Fuel,69.48,expense,Transport
+TXN-202508-00635,1,2025-08-18,Cloud Subscription,20.0,expense,Subscription
+TXN-202508-00678,2,2025-08-18,Cloud Subscription,20.0,expense,Subscription
+TXN-202508-00707,2,2025-08-18,Metro,7.01,expense,Transport
+TXN-202508-00648,1,2025-08-19,Grocery Store,52.95,expense,Food
+TXN-202508-00716,2,2025-08-19,Pharmacy,53.9,expense,Healthcare
+TXN-202508-00647,1,2025-08-20,Restaurant,69.24,expense,Food
+TXN-202508-00687,2,2025-08-20,Food Delivery,28.87,expense,Food
+TXN-202508-00637,1,2025-08-21,Grocery Store,53.26,expense,Food
+TXN-202508-00669,2,2025-08-21,Freelance Income,899.47,income,Income
+TXN-202508-00689,2,2025-08-21,Grocery Store,118.96,expense,Food
+TXN-202508-00657,1,2025-08-22,Metro,6.47,expense,Transport
+TXN-202508-00695,2,2025-08-22,Grocery Store,97.64,expense,Food
+TXN-202508-00639,1,2025-08-23,Food Delivery,40.04,expense,Food
+TXN-202508-00661,1,2025-08-23,Metro,3.82,expense,Transport
+TXN-202508-00679,2,2025-08-23,Restaurant,107.64,expense,Food
+TXN-202508-00702,2,2025-08-23,Bus,3.47,expense,Transport
+TXN-202508-00709,2,2025-08-23,Metro,6.57,expense,Transport
+TXN-202508-00658,1,2025-08-24,Cab,15.47,expense,Transport
+TXN-202508-00690,2,2025-08-24,Restaurant,110.03,expense,Food
+TXN-202508-00699,2,2025-08-24,Grocery Store,119.66,expense,Food
+TXN-202508-00715,2,2025-08-24,Events,95.9,expense,Entertainment
+TXN-202508-00667,1,2025-08-25,Miscellaneous,15.01,expense,Other
+TXN-202508-00693,2,2025-08-25,Restaurant,60.42,expense,Food
+TXN-202508-00656,1,2025-08-26,Fuel,43.44,expense,Transport
+TXN-202508-00688,2,2025-08-26,Food Delivery,20.97,expense,Food
+TXN-202508-00711,2,2025-08-26,Fuel,62.66,expense,Transport
+TXN-202508-00713,2,2025-08-26,Household Shopping,43.24,expense,Shopping
+TXN-202508-00682,2,2025-08-27,Grocery Store,86.06,expense,Food
+TXN-202508-00708,2,2025-08-28,Fuel,59.83,expense,Transport
+TXN-202508-00664,1,2025-08-29,Movies,36.47,expense,Entertainment
+TXN-202508-00694,2,2025-08-31,Restaurant,80.83,expense,Food
+TXN-202509-00717,1,2025-09-01,Salary,5039.99,income,Income
+TXN-202509-00737,1,2025-09-01,Grocery Store,153.57,expense,Food
+TXN-202509-00740,1,2025-09-01,Restaurant,68.9,expense,Food
+TXN-202509-00757,2,2025-09-01,Salary,6520.58,income,Income
+TXN-202509-00718,1,2025-09-02,Rent,1350.0,expense,Housing
+TXN-202509-00759,2,2025-09-02,Rent,1800.0,expense,Housing
+TXN-202509-00733,1,2025-09-03,Restaurant,36.8,expense,Food
+TXN-202509-00771,2,2025-09-03,Grocery Store,109.55,expense,Food
+TXN-202509-00774,2,2025-09-04,Grocery Store,161.23,expense,Food
+TXN-202509-00720,1,2025-09-05,Electricity,79.03,expense,Utilities
+TXN-202509-00732,1,2025-09-05,Restaurant,68.01,expense,Food
+TXN-202509-00760,2,2025-09-05,Electricity,117.08,expense,Utilities
+TXN-202509-00776,2,2025-09-05,Grocery Store,118.37,expense,Food
+TXN-202509-00780,2,2025-09-05,Grocery Store,133.96,expense,Food
+TXN-202509-00794,2,2025-09-05,Pharmacy,23.16,expense,Healthcare
+TXN-202509-00728,1,2025-09-06,Grocery Store,151.84,expense,Food
+TXN-202509-00719,1,2025-09-07,Maintenance,132.58,expense,Housing
+TXN-202509-00731,1,2025-09-07,Restaurant,63.56,expense,Food
+TXN-202509-00721,1,2025-09-08,Water Bill,42.57,expense,Utilities
+TXN-202509-00729,1,2025-09-08,Grocery Store,152.61,expense,Food
+TXN-202509-00749,1,2025-09-08,Metro,4.2,expense,Transport
+TXN-202509-00750,1,2025-09-08,Fuel,36.77,expense,Transport
+TXN-202509-00756,1,2025-09-08,Miscellaneous,25.55,expense,Other
+TXN-202509-00761,2,2025-09-08,Water Bill,37.14,expense,Utilities
+TXN-202509-00768,2,2025-09-09,Restaurant,94.16,expense,Food
+TXN-202509-00722,1,2025-09-10,Internet,69.99,expense,Utilities
+TXN-202509-00762,2,2025-09-10,Internet,69.99,expense,Utilities
+TXN-202509-00782,2,2025-09-10,Metro,5.28,expense,Transport
+TXN-202509-00784,2,2025-09-10,Metro,3.07,expense,Transport
+TXN-202509-00745,1,2025-09-11,Metro,4.41,expense,Transport
+TXN-202509-00775,2,2025-09-11,Restaurant,60.71,expense,Food
+TXN-202509-00785,2,2025-09-11,Cab,37.48,expense,Transport
+TXN-202509-00723,1,2025-09-12,Mobile Bill,45.0,expense,Utilities
+TXN-202509-00747,1,2025-09-12,Bus,2.39,expense,Transport
+TXN-202509-00748,1,2025-09-12,Metro,3.48,expense,Transport
+TXN-202509-00763,2,2025-09-12,Mobile Bill,45.0,expense,Utilities
+TXN-202509-00769,2,2025-09-12,Grocery Store,49.67,expense,Food
+TXN-202509-00781,2,2025-09-13,Bus,4.22,expense,Transport
+TXN-202509-00724,1,2025-09-14,Netflix,15.99,expense,Subscription
+TXN-202509-00764,2,2025-09-14,Netflix,15.99,expense,Subscription
+TXN-202509-00725,1,2025-09-15,Spotify,10.99,expense,Subscription
+TXN-202509-00743,1,2025-09-15,Fuel,37.1,expense,Transport
+TXN-202509-00744,1,2025-09-15,Metro,5.09,expense,Transport
+TXN-202509-00765,2,2025-09-15,Spotify,10.99,expense,Subscription
+TXN-202509-00779,2,2025-09-15,Grocery Store,175.97,expense,Food
+TXN-202509-00754,1,2025-09-16,Games,43.33,expense,Entertainment
+TXN-202509-00788,2,2025-09-16,Fuel,57.95,expense,Transport
+TXN-202509-00777,2,2025-09-17,Grocery Store,47.84,expense,Food
+TXN-202509-00783,2,2025-09-17,Metro,6.19,expense,Transport
+TXN-202509-00726,1,2025-09-18,Cloud Subscription,20.0,expense,Subscription
+TXN-202509-00766,2,2025-09-18,Cloud Subscription,20.0,expense,Subscription
+TXN-202509-00770,2,2025-09-18,Grocery Store,124.98,expense,Food
+TXN-202509-00772,2,2025-09-18,Grocery Store,190.36,expense,Food
+TXN-202509-00734,1,2025-09-19,Grocery Store,117.34,expense,Food
+TXN-202509-00786,2,2025-09-19,Fuel,66.46,expense,Transport
+TXN-202509-00790,2,2025-09-19,Electronics,254.43,expense,Shopping
+TXN-202509-00795,2,2025-09-20,Miscellaneous,69.99,expense,Other
+TXN-202509-00741,1,2025-09-21,Bus,3.45,expense,Transport
+TXN-202509-00773,2,2025-09-22,Restaurant,40.81,expense,Food
+TXN-202509-00746,1,2025-09-23,Fuel,69.58,expense,Transport
+TXN-202509-00778,2,2025-09-23,Grocery Store,113.06,expense,Food
+TXN-202509-00793,2,2025-09-23,Movies,15.44,expense,Entertainment
+TXN-202509-00735,1,2025-09-24,Food Delivery,26.14,expense,Food
+TXN-202509-00791,2,2025-09-24,Household Shopping,115.8,expense,Shopping
+TXN-202509-00738,1,2025-09-25,Restaurant,70.58,expense,Food
+TXN-202509-00739,1,2025-09-25,Restaurant,68.27,expense,Food
+TXN-202509-00758,2,2025-09-25,Freelance Income,1053.62,income,Income
+TXN-202509-00789,2,2025-09-25,Metro,4.02,expense,Transport
+TXN-202509-00742,1,2025-09-26,Cab,22.56,expense,Transport
+TXN-202509-00727,1,2025-09-27,Grocery Store,54.13,expense,Food
+TXN-202509-00792,2,2025-09-27,Events,57.22,expense,Entertainment
+TXN-202509-00751,1,2025-09-28,Household Shopping,46.1,expense,Shopping
+TXN-202509-00752,1,2025-09-28,Household Shopping,94.15,expense,Shopping
+TXN-202509-00767,2,2025-09-28,Grocery Store,62.09,expense,Food
+TXN-202509-00787,2,2025-09-28,Cab,12.69,expense,Transport
+TXN-202509-00730,1,2025-09-29,Grocery Store,44.86,expense,Food
+TXN-202509-00755,1,2025-09-29,Movies,15.53,expense,Entertainment
+TXN-202509-00736,1,2025-09-30,Restaurant,82.77,expense,Food
+TXN-202509-00753,1,2025-09-30,Electronics,150.69,expense,Shopping
+TXN-202510-00796,1,2025-10-01,Salary,5124.56,income,Income
+TXN-202510-00847,2,2025-10-01,Salary,6531.1,income,Income
+TXN-202510-00860,2,2025-10-01,Grocery Store,95.93,expense,Food
+TXN-202510-00882,2,2025-10-01,Cab,27.04,expense,Transport
+TXN-202510-00894,2,2025-10-01,Games,68.91,expense,Entertainment
+TXN-202510-00797,1,2025-10-02,Rent,1350.0,expense,Housing
+TXN-202510-00848,2,2025-10-02,Rent,1800.0,expense,Housing
+TXN-202510-00883,2,2025-10-02,Metro,6.15,expense,Transport
+TXN-202510-00832,1,2025-10-03,Cab,18.04,expense,Transport
+TXN-202510-00885,2,2025-10-03,Bus,3.42,expense,Transport
+TXN-202510-00890,2,2025-10-03,Household Shopping,97.5,expense,Shopping
+TXN-202510-00823,1,2025-10-04,Restaurant,66.08,expense,Food
+TXN-202510-00799,1,2025-10-05,Electricity,109.26,expense,Utilities
+TXN-202510-00850,2,2025-10-05,Electricity,82.93,expense,Utilities
+TXN-202510-00891,2,2025-10-05,Events,89.47,expense,Entertainment
+TXN-202510-00893,2,2025-10-05,Games,31.12,expense,Entertainment
+TXN-202510-00892,2,2025-10-06,Games,39.64,expense,Entertainment
+TXN-202510-00798,1,2025-10-07,Maintenance,113.9,expense,Housing
+TXN-202510-00821,1,2025-10-07,Grocery Store,102.32,expense,Food
+TXN-202510-00830,1,2025-10-07,Cab,19.47,expense,Transport
+TXN-202510-00870,2,2025-10-07,Food Delivery,44.94,expense,Food
+TXN-202510-00800,1,2025-10-08,Water Bill,54.95,expense,Utilities
+TXN-202510-00824,1,2025-10-08,Grocery Store,148.15,expense,Food
+TXN-202510-00825,1,2025-10-08,Restaurant,28.67,expense,Food
+TXN-202510-00851,2,2025-10-08,Water Bill,33.52,expense,Utilities
+TXN-202510-00858,2,2025-10-08,Grocery Store,82.05,expense,Food
+TXN-202510-00861,2,2025-10-08,Grocery Store,59.73,expense,Food
+TXN-202510-00866,2,2025-10-08,Food Delivery,36.94,expense,Food
+TXN-202510-00811,1,2025-10-09,Restaurant,40.74,expense,Food
+TXN-202510-00844,1,2025-10-09,Games,20.69,expense,Entertainment
+TXN-202510-00801,1,2025-10-10,Internet,69.99,expense,Utilities
+TXN-202510-00812,1,2025-10-10,Food Delivery,38.26,expense,Food
+TXN-202510-00831,1,2025-10-10,Metro,7.09,expense,Transport
+TXN-202510-00838,1,2025-10-10,Bus,2.03,expense,Transport
+TXN-202510-00840,1,2025-10-10,Electronics,245.98,expense,Shopping
+TXN-202510-00845,1,2025-10-10,Pharmacy,45.29,expense,Healthcare
+TXN-202510-00852,2,2025-10-10,Internet,69.99,expense,Utilities
+TXN-202510-00862,2,2025-10-10,Grocery Store,144.91,expense,Food
+TXN-202510-00864,2,2025-10-10,Restaurant,83.65,expense,Food
+TXN-202510-00886,2,2025-10-10,Metro,6.46,expense,Transport
+TXN-202510-00843,1,2025-10-11,Movies,25.56,expense,Entertainment
+TXN-202510-00849,2,2025-10-11,Maintenance,125.19,expense,Housing
+TXN-202510-00859,2,2025-10-11,Grocery Store,150.43,expense,Food
+TXN-202510-00802,1,2025-10-12,Mobile Bill,45.0,expense,Utilities
+TXN-202510-00808,1,2025-10-12,Restaurant,85.74,expense,Food
+TXN-202510-00814,1,2025-10-12,Restaurant,90.41,expense,Food
+TXN-202510-00853,2,2025-10-12,Mobile Bill,45.0,expense,Utilities
+TXN-202510-00888,2,2025-10-12,Household Shopping,69.01,expense,Shopping
+TXN-202510-00817,1,2025-10-13,Food Delivery,46.5,expense,Food
+TXN-202510-00803,1,2025-10-14,Netflix,15.99,expense,Subscription
+TXN-202510-00826,1,2025-10-14,Grocery Store,94.05,expense,Food
+TXN-202510-00854,2,2025-10-14,Netflix,15.99,expense,Subscription
+TXN-202510-00868,2,2025-10-14,Restaurant,106.67,expense,Food
+TXN-202510-00804,1,2025-10-15,Spotify,10.99,expense,Subscription
+TXN-202510-00807,1,2025-10-15,Food Delivery,26.3,expense,Food
+TXN-202510-00820,1,2025-10-15,Restaurant,77.31,expense,Food
+TXN-202510-00855,2,2025-10-15,Spotify,10.99,expense,Subscription
+TXN-202510-00867,2,2025-10-15,Restaurant,80.88,expense,Food
+TXN-202510-00872,2,2025-10-15,Restaurant,60.39,expense,Food
+TXN-202510-00876,2,2025-10-15,Fuel,42.19,expense,Transport
+TXN-202510-00878,2,2025-10-15,Cab,23.79,expense,Transport
+TXN-202510-00806,1,2025-10-17,Grocery Store,154.59,expense,Food
+TXN-202510-00841,1,2025-10-17,Electronics,332.18,expense,Shopping
+TXN-202510-00879,2,2025-10-17,Metro,5.54,expense,Transport
+TXN-202510-00805,1,2025-10-18,Cloud Subscription,20.0,expense,Subscription
+TXN-202510-00856,2,2025-10-18,Cloud Subscription,20.0,expense,Subscription
+TXN-202510-00874,2,2025-10-18,Food Delivery,26.01,expense,Food
+TXN-202510-00875,2,2025-10-18,Grocery Store,91.22,expense,Food
+TXN-202510-00880,2,2025-10-18,Metro,6.63,expense,Transport
+TXN-202510-00884,2,2025-10-18,Bus,4.8,expense,Transport
+TXN-202510-00839,1,2025-10-19,Metro,7.18,expense,Transport
+TXN-202510-00877,2,2025-10-19,Metro,7.05,expense,Transport
+TXN-202510-00810,1,2025-10-20,Restaurant,92.01,expense,Food
+TXN-202510-00871,2,2025-10-20,Food Delivery,21.24,expense,Food
+TXN-202510-00809,1,2025-10-22,Restaurant,73.53,expense,Food
+TXN-202510-00816,1,2025-10-22,Restaurant,87.7,expense,Food
+TXN-202510-00813,1,2025-10-23,Restaurant,47.19,expense,Food
+TXN-202510-00815,1,2025-10-24,Grocery Store,50.23,expense,Food
+TXN-202510-00833,1,2025-10-24,Cab,36.35,expense,Transport
+TXN-202510-00881,2,2025-10-24,Fuel,43.91,expense,Transport
+TXN-202510-00895,2,2025-10-24,Pharmacy,36.28,expense,Healthcare
+TXN-202510-00827,1,2025-10-25,Fuel,68.76,expense,Transport
+TXN-202510-00869,2,2025-10-25,Restaurant,85.78,expense,Food
+TXN-202510-00887,2,2025-10-25,Metro,6.28,expense,Transport
+TXN-202510-00818,1,2025-10-26,Grocery Store,40.26,expense,Food
+TXN-202510-00835,1,2025-10-27,Fuel,67.19,expense,Transport
+TXN-202510-00836,1,2025-10-27,Fuel,52.34,expense,Transport
+TXN-202510-00842,1,2025-10-28,Electronics,139.12,expense,Shopping
+TXN-202510-00846,1,2025-10-28,Miscellaneous,52.24,expense,Other
+TXN-202510-00889,2,2025-10-28,Household Shopping,68.5,expense,Shopping
+TXN-202510-00829,1,2025-10-29,Bus,3.43,expense,Transport
+TXN-202510-00822,1,2025-10-30,Restaurant,44.01,expense,Food
+TXN-202510-00828,1,2025-10-30,Fuel,57.85,expense,Transport
+TXN-202510-00834,1,2025-10-30,Bus,3.25,expense,Transport
+TXN-202510-00837,1,2025-10-30,Cab,34.68,expense,Transport
+TXN-202510-00857,2,2025-10-30,Grocery Store,81.12,expense,Food
+TXN-202510-00863,2,2025-10-30,Food Delivery,45.86,expense,Food
+TXN-202510-00873,2,2025-10-30,Restaurant,35.19,expense,Food
+TXN-202510-00819,1,2025-10-31,Restaurant,49.25,expense,Food
+TXN-202510-00865,2,2025-10-31,Grocery Store,134.19,expense,Food
+TXN-202511-00896,1,2025-11-01,Salary,4999.5,income,Income
+TXN-202511-00907,1,2025-11-01,Grocery Store,43.41,expense,Food
+TXN-202511-00935,1,2025-11-01,Fuel,41.65,expense,Transport
+TXN-202511-00946,2,2025-11-01,Salary,6566.81,income,Income
+TXN-202511-00966,2,2025-11-01,Grocery Store,110.4,expense,Food
+TXN-202511-00969,2,2025-11-01,Grocery Store,124.75,expense,Food
+TXN-202511-00970,2,2025-11-01,Grocery Store,150.33,expense,Food
+TXN-202511-00982,2,2025-11-01,Cab,14.15,expense,Transport
+TXN-202511-00990,2,2025-11-01,Games,49.34,expense,Entertainment
+TXN-202511-00898,1,2025-11-02,Rent,1350.0,expense,Housing
+TXN-202511-00910,1,2025-11-02,Grocery Store,64.29,expense,Food
+TXN-202511-00930,1,2025-11-02,Fuel,58.58,expense,Transport
+TXN-202511-00944,1,2025-11-02,Pharmacy,23.85,expense,Healthcare
+TXN-202511-00947,2,2025-11-02,Rent,1800.0,expense,Housing
+TXN-202511-00962,2,2025-11-02,Restaurant,100.48,expense,Food
+TXN-202511-00967,2,2025-11-02,Restaurant,86.01,expense,Food
+TXN-202511-00928,1,2025-11-03,Bus,4.54,expense,Transport
+TXN-202511-00929,1,2025-11-03,Metro,6.73,expense,Transport
+TXN-202511-00963,2,2025-11-03,Food Delivery,44.46,expense,Food
+TXN-202511-00979,2,2025-11-03,Cab,34.31,expense,Transport
+TXN-202511-00899,1,2025-11-05,Electricity,123.58,expense,Utilities
+TXN-202511-00912,1,2025-11-05,Restaurant,45.25,expense,Food
+TXN-202511-00949,2,2025-11-05,Electricity,96.59,expense,Utilities
+TXN-202511-00960,2,2025-11-05,Restaurant,71.02,expense,Food
+TXN-202511-00959,2,2025-11-06,Restaurant,59.58,expense,Food
+TXN-202511-00911,1,2025-11-07,Food Delivery,40.61,expense,Food
+TXN-202511-00938,1,2025-11-07,Clothing,73.51,expense,Shopping
+TXN-202511-00986,2,2025-11-07,Bus,4.08,expense,Transport
+TXN-202511-00900,1,2025-11-08,Water Bill,30.81,expense,Utilities
+TXN-202511-00924,1,2025-11-08,Grocery Store,123.45,expense,Food
+TXN-202511-00927,1,2025-11-08,Fuel,46.56,expense,Transport
+TXN-202511-00948,2,2025-11-08,Maintenance,99.74,expense,Housing
+TXN-202511-00950,2,2025-11-08,Water Bill,50.83,expense,Utilities
+TXN-202511-00978,2,2025-11-08,Fuel,63.98,expense,Transport
+TXN-202511-00917,1,2025-11-09,Grocery Store,153.57,expense,Food
+TXN-202511-00945,1,2025-11-09,Miscellaneous,46.86,expense,Other
+TXN-202511-00957,2,2025-11-09,Food Delivery,37.35,expense,Food
+TXN-202511-00901,1,2025-11-10,Internet,69.99,expense,Utilities
+TXN-202511-00951,2,2025-11-10,Internet,69.99,expense,Utilities
+TXN-202511-00915,1,2025-11-11,Grocery Store,144.53,expense,Food
+TXN-202511-00939,1,2025-11-11,Household Shopping,57.36,expense,Shopping
+TXN-202511-00902,1,2025-11-12,Mobile Bill,45.0,expense,Utilities
+TXN-202511-00920,1,2025-11-12,Food Delivery,37.15,expense,Food
+TXN-202511-00952,2,2025-11-12,Mobile Bill,45.0,expense,Utilities
+TXN-202511-00981,2,2025-11-13,Metro,3.25,expense,Transport
+TXN-202511-00994,2,2025-11-13,Miscellaneous,59.6,expense,Other
+TXN-202511-00903,1,2025-11-14,Netflix,15.99,expense,Subscription
+TXN-202511-00922,1,2025-11-14,Grocery Store,82.06,expense,Food
+TXN-202511-00926,1,2025-11-14,Metro,3.6,expense,Transport
+TXN-202511-00953,2,2025-11-14,Netflix,15.99,expense,Subscription
+TXN-202511-00904,1,2025-11-15,Spotify,10.99,expense,Subscription
+TXN-202511-00954,2,2025-11-15,Spotify,10.99,expense,Subscription
+TXN-202511-00977,2,2025-11-15,Metro,7.46,expense,Transport
+TXN-202511-00941,1,2025-11-17,Games,43.29,expense,Entertainment
+TXN-202511-00974,2,2025-11-17,Grocery Store,70.79,expense,Food
+TXN-202511-00975,2,2025-11-17,Grocery Store,95.17,expense,Food
+TXN-202511-00897,1,2025-11-18,Freelance Income,550.78,income,Income
+TXN-202511-00905,1,2025-11-18,Cloud Subscription,20.0,expense,Subscription
+TXN-202511-00933,1,2025-11-18,Fuel,42.31,expense,Transport
+TXN-202511-00955,2,2025-11-18,Cloud Subscription,20.0,expense,Subscription
+TXN-202511-00956,2,2025-11-18,Restaurant,87.53,expense,Food
+TXN-202511-00971,2,2025-11-18,Food Delivery,18.68,expense,Food
+TXN-202511-00914,1,2025-11-19,Restaurant,72.08,expense,Food
+TXN-202511-00984,2,2025-11-19,Bus,4.92,expense,Transport
+TXN-202511-00987,2,2025-11-19,Metro,3.21,expense,Transport
+TXN-202511-00989,2,2025-11-19,Household Shopping,48.29,expense,Shopping
+TXN-202511-00906,1,2025-11-20,Food Delivery,44.16,expense,Food
+TXN-202511-00908,1,2025-11-20,Grocery Store,109.72,expense,Food
+TXN-202511-00931,1,2025-11-20,Fuel,37.55,expense,Transport
+TXN-202511-00968,2,2025-11-20,Food Delivery,44.11,expense,Food
+TXN-202511-00940,1,2025-11-21,Movies,21.02,expense,Entertainment
+TXN-202511-00965,2,2025-11-21,Grocery Store,148.08,expense,Food
+TXN-202511-00916,1,2025-11-22,Restaurant,53.95,expense,Food
+TXN-202511-00919,1,2025-11-22,Grocery Store,96.95,expense,Food
+TXN-202511-00988,2,2025-11-22,Household Shopping,121.73,expense,Shopping
+TXN-202511-00909,1,2025-11-23,Food Delivery,23.08,expense,Food
+TXN-202511-00936,1,2025-11-24,Fuel,69.99,expense,Transport
+TXN-202511-00958,2,2025-11-24,Restaurant,71.21,expense,Food
+TXN-202511-00923,1,2025-11-25,Restaurant,41.87,expense,Food
+TXN-202511-00964,2,2025-11-25,Grocery Store,62.62,expense,Food
+TXN-202511-00980,2,2025-11-25,Fuel,49.18,expense,Transport
+TXN-202511-00991,2,2025-11-25,Games,61.04,expense,Entertainment
+TXN-202511-00921,1,2025-11-26,Restaurant,73.74,expense,Food
+TXN-202511-00925,1,2025-11-26,Restaurant,29.03,expense,Food
+TXN-202511-00932,1,2025-11-26,Cab,30.83,expense,Transport
+TXN-202511-00942,1,2025-11-26,Games,43.46,expense,Entertainment
+TXN-202511-00976,2,2025-11-26,Grocery Store,97.96,expense,Food
+TXN-202511-00913,1,2025-11-27,Food Delivery,34.01,expense,Food
+TXN-202511-00943,1,2025-11-27,Movies,19.67,expense,Entertainment
+TXN-202511-00972,2,2025-11-27,Restaurant,66.17,expense,Food
+TXN-202511-00993,2,2025-11-27,Doctor,124.16,expense,Healthcare
+TXN-202511-00983,2,2025-11-28,Metro,6.53,expense,Transport
+TXN-202511-00918,1,2025-11-29,Restaurant,37.26,expense,Food
+TXN-202511-00985,2,2025-11-29,Metro,3.19,expense,Transport
+TXN-202511-00934,1,2025-11-30,Fuel,68.5,expense,Transport
+TXN-202511-00937,1,2025-11-30,Clothing,124.62,expense,Shopping
+TXN-202511-00961,2,2025-11-30,Food Delivery,57.22,expense,Food
+TXN-202511-00973,2,2025-11-30,Grocery Store,179.71,expense,Food
+TXN-202511-00992,2,2025-11-30,Movies,18.74,expense,Entertainment
+TXN-202512-00995,1,2025-12-01,Salary,4977.99,income,Income
+TXN-202512-01018,1,2025-12-01,Grocery Store,104.28,expense,Food
+TXN-202512-01044,2,2025-12-01,Salary,6477.84,income,Income
+TXN-202512-01068,2,2025-12-01,Restaurant,54.82,expense,Food
+TXN-202512-01075,2,2025-12-01,Food Delivery,43.66,expense,Food
+TXN-202512-01081,2,2025-12-01,Cab,34.96,expense,Transport
+TXN-202512-00997,1,2025-12-02,Rent,1350.0,expense,Housing
+TXN-202512-01047,2,2025-12-02,Rent,1800.0,expense,Housing
+TXN-202512-01010,1,2025-12-03,Food Delivery,24.75,expense,Food
+TXN-202512-01014,1,2025-12-04,Grocery Store,152.87,expense,Food
+TXN-202512-01029,1,2025-12-04,Fuel,35.24,expense,Transport
+TXN-202512-01063,2,2025-12-04,Grocery Store,80.81,expense,Food
+TXN-202512-01085,2,2025-12-04,Cab,25.96,expense,Transport
+TXN-202512-01093,2,2025-12-04,Movies,17.69,expense,Entertainment
+TXN-202512-00999,1,2025-12-05,Electricity,154.45,expense,Utilities
+TXN-202512-01012,1,2025-12-05,Grocery Store,132.99,expense,Food
+TXN-202512-01013,1,2025-12-05,Restaurant,47.17,expense,Food
+TXN-202512-01016,1,2025-12-05,Grocery Store,88.87,expense,Food
+TXN-202512-01024,1,2025-12-05,Grocery Store,68.55,expense,Food
+TXN-202512-01025,1,2025-12-05,Grocery Store,89.33,expense,Food
+TXN-202512-01048,2,2025-12-05,Electricity,124.26,expense,Utilities
+TXN-202512-00998,1,2025-12-06,Maintenance,107.78,expense,Housing
+TXN-202512-01009,1,2025-12-06,Restaurant,71.25,expense,Food
+TXN-202512-01035,1,2025-12-06,Bus,4.91,expense,Transport
+TXN-202512-01080,2,2025-12-06,Metro,4.94,expense,Transport
+TXN-202512-01042,1,2025-12-07,Movies,21.7,expense,Entertainment
+TXN-202512-01000,1,2025-12-08,Water Bill,38.51,expense,Utilities
+TXN-202512-01011,1,2025-12-08,Restaurant,30.74,expense,Food
+TXN-202512-01049,2,2025-12-08,Water Bill,40.02,expense,Utilities
+TXN-202512-01059,2,2025-12-08,Restaurant,59.82,expense,Food
+TXN-202512-01077,2,2025-12-08,Metro,5.48,expense,Transport
+TXN-202512-01079,2,2025-12-08,Cab,28.37,expense,Transport
+TXN-202512-01027,1,2025-12-09,Bus,4.16,expense,Transport
+TXN-202512-01087,2,2025-12-09,Cab,24.73,expense,Transport
+TXN-202512-01001,1,2025-12-10,Internet,69.99,expense,Utilities
+TXN-202512-01026,1,2025-12-10,Metro,3.35,expense,Transport
+TXN-202512-01036,1,2025-12-10,Cab,28.46,expense,Transport
+TXN-202512-01050,2,2025-12-10,Internet,69.99,expense,Utilities
+TXN-202512-01074,2,2025-12-10,Grocery Store,148.62,expense,Food
+TXN-202512-01071,2,2025-12-11,Restaurant,47.38,expense,Food
+TXN-202512-01078,2,2025-12-11,Metro,7.31,expense,Transport
+TXN-202512-01002,1,2025-12-12,Mobile Bill,45.0,expense,Utilities
+TXN-202512-01008,1,2025-12-12,Restaurant,51.28,expense,Food
+TXN-202512-01051,2,2025-12-12,Mobile Bill,45.0,expense,Utilities
+TXN-202512-01086,2,2025-12-12,Fuel,51.01,expense,Transport
+TXN-202512-01094,2,2025-12-12,Events,106.1,expense,Entertainment
+TXN-202512-01020,1,2025-12-13,Grocery Store,86.73,expense,Food
+TXN-202512-01030,1,2025-12-13,Fuel,56.71,expense,Transport
+TXN-202512-01066,2,2025-12-13,Restaurant,87.08,expense,Food
+TXN-202512-01003,1,2025-12-14,Netflix,15.99,expense,Subscription
+TXN-202512-01032,1,2025-12-14,Cab,34.35,expense,Transport
+TXN-202512-01052,2,2025-12-14,Netflix,15.99,expense,Subscription
+TXN-202512-01095,2,2025-12-14,Events,112.63,expense,Entertainment
+TXN-202512-01004,1,2025-12-15,Spotify,10.99,expense,Subscription
+TXN-202512-01015,1,2025-12-15,Grocery Store,68.72,expense,Food
+TXN-202512-01053,2,2025-12-15,Spotify,10.99,expense,Subscription
+TXN-202512-01082,2,2025-12-15,Metro,4.75,expense,Transport
+TXN-202512-01028,1,2025-12-16,Metro,3.88,expense,Transport
+TXN-202512-01072,2,2025-12-16,Grocery Store,56.64,expense,Food
+TXN-202512-01096,2,2025-12-16,Doctor,125.47,expense,Healthcare
+TXN-202512-01023,1,2025-12-17,Grocery Store,82.59,expense,Food
+TXN-202512-01064,2,2025-12-17,Restaurant,76.87,expense,Food
+TXN-202512-01005,1,2025-12-18,Cloud Subscription,20.0,expense,Subscription
+TXN-202512-01017,1,2025-12-18,Restaurant,53.56,expense,Food
+TXN-202512-01040,1,2025-12-18,Clothing,147.47,expense,Shopping
+TXN-202512-01045,2,2025-12-18,Freelance Income,1112.32,income,Income
+TXN-202512-01054,2,2025-12-18,Cloud Subscription,20.0,expense,Subscription
+TXN-202512-01056,2,2025-12-18,Grocery Store,187.26,expense,Food
+TXN-202512-01019,1,2025-12-20,Restaurant,47.71,expense,Food
+TXN-202512-01033,1,2025-12-20,Fuel,46.22,expense,Transport
+TXN-202512-01089,2,2025-12-20,Fuel,39.0,expense,Transport
+TXN-202512-01092,2,2025-12-20,Electronics,305.89,expense,Shopping
+TXN-202512-01058,2,2025-12-21,Food Delivery,22.33,expense,Food
+TXN-202512-01060,2,2025-12-21,Restaurant,77.31,expense,Food
+TXN-202512-01061,2,2025-12-21,Restaurant,63.57,expense,Food
+TXN-202512-01076,2,2025-12-22,Food Delivery,54.82,expense,Food
+TXN-202512-01091,2,2025-12-22,Household Shopping,60.34,expense,Shopping
+TXN-202512-01057,2,2025-12-23,Food Delivery,39.26,expense,Food
+TXN-202512-01065,2,2025-12-23,Restaurant,67.45,expense,Food
+TXN-202512-01067,2,2025-12-23,Restaurant,58.98,expense,Food
+TXN-202512-01083,2,2025-12-23,Fuel,44.74,expense,Transport
+TXN-202512-01084,2,2025-12-23,Cab,13.63,expense,Transport
+TXN-202512-01073,2,2025-12-24,Restaurant,56.79,expense,Food
+TXN-202512-01006,1,2025-12-25,Grocery Store,114.27,expense,Food
+TXN-202512-01021,1,2025-12-25,Grocery Store,147.64,expense,Food
+TXN-202512-01062,2,2025-12-25,Grocery Store,161.43,expense,Food
+TXN-202512-01007,1,2025-12-26,Food Delivery,31.19,expense,Food
+TXN-202512-01031,1,2025-12-26,Bus,3.32,expense,Transport
+TXN-202512-01037,1,2025-12-26,Clothing,92.65,expense,Shopping
+TXN-202512-01046,2,2025-12-26,Bonus,1333.14,income,Income
+TXN-202512-01038,1,2025-12-27,Household Shopping,56.03,expense,Shopping
+TXN-202512-01043,1,2025-12-27,Doctor,133.6,expense,Healthcare
+TXN-202512-00996,1,2025-12-28,Bonus,2118.18,income,Income
+TXN-202512-01090,2,2025-12-28,Electronics,132.04,expense,Shopping
+TXN-202512-01022,1,2025-12-29,Food Delivery,23.01,expense,Food
+TXN-202512-01039,1,2025-12-30,Electronics,231.75,expense,Shopping
+TXN-202512-01055,2,2025-12-30,Food Delivery,45.39,expense,Food
+TXN-202512-01069,2,2025-12-30,Food Delivery,22.6,expense,Food
+TXN-202512-01034,1,2025-12-31,Cab,24.45,expense,Transport
+TXN-202512-01041,1,2025-12-31,Games,67.14,expense,Entertainment
+TXN-202512-01070,2,2025-12-31,Restaurant,59.26,expense,Food
+TXN-202512-01088,2,2025-12-31,Metro,5.69,expense,Transport
+TXN-202601-01097,1,2026-01-01,Salary,5149.98,income,Income
+TXN-202601-01142,2,2026-01-01,Salary,6596.54,income,Income
+TXN-202601-01176,2,2026-01-01,Metro,3.74,expense,Transport
+TXN-202601-01098,1,2026-01-02,Rent,1400.0,expense,Housing
+TXN-202601-01121,1,2026-01-02,Grocery Store,78.57,expense,Food
+TXN-202601-01133,1,2026-01-02,Bus,4.6,expense,Transport
+TXN-202601-01143,2,2026-01-02,Rent,1850.0,expense,Housing
+TXN-202601-01156,2,2026-01-02,Grocery Store,159.58,expense,Food
+TXN-202601-01164,2,2026-01-02,Grocery Store,87.83,expense,Food
+TXN-202601-01162,2,2026-01-03,Restaurant,51.03,expense,Food
+TXN-202601-01166,2,2026-01-03,Restaurant,30.09,expense,Food
+TXN-202601-01171,2,2026-01-03,Grocery Store,55.4,expense,Food
+TXN-202601-01116,1,2026-01-04,Grocery Store,102.89,expense,Food
+TXN-202601-01123,1,2026-01-04,Food Delivery,22.82,expense,Food
+TXN-202601-01172,2,2026-01-04,Fuel,47.86,expense,Transport
+TXN-202601-01180,2,2026-01-04,Fuel,39.31,expense,Transport
+TXN-202601-01100,1,2026-01-05,Electricity,154.73,expense,Utilities
+TXN-202601-01134,1,2026-01-05,Cab,15.45,expense,Transport
+TXN-202601-01145,2,2026-01-05,Electricity,150.84,expense,Utilities
+TXN-202601-01154,2,2026-01-05,Restaurant,70.77,expense,Food
+TXN-202601-01178,2,2026-01-05,Bus,3.85,expense,Transport
+TXN-202601-01111,1,2026-01-06,Grocery Store,38.86,expense,Food
+TXN-202601-01158,2,2026-01-06,Grocery Store,42.1,expense,Food
+TXN-202601-01161,2,2026-01-06,Food Delivery,52.71,expense,Food
+TXN-202601-01099,1,2026-01-07,Maintenance,89.03,expense,Housing
+TXN-202601-01127,1,2026-01-07,Cab,26.82,expense,Transport
+TXN-202601-01101,1,2026-01-08,Water Bill,45.49,expense,Utilities
+TXN-202601-01113,1,2026-01-08,Restaurant,36.77,expense,Food
+TXN-202601-01146,2,2026-01-08,Water Bill,39.94,expense,Utilities
+TXN-202601-01140,1,2026-01-09,Events,119.57,expense,Entertainment
+TXN-202601-01102,1,2026-01-10,Internet,69.99,expense,Utilities
+TXN-202601-01144,2,2026-01-10,Maintenance,138.76,expense,Housing
+TXN-202601-01147,2,2026-01-10,Internet,69.99,expense,Utilities
+TXN-202601-01173,2,2026-01-10,Fuel,62.07,expense,Transport
+TXN-202601-01129,1,2026-01-11,Bus,2.88,expense,Transport
+TXN-202601-01155,2,2026-01-11,Food Delivery,48.19,expense,Food
+TXN-202601-01182,2,2026-01-11,Cab,18.44,expense,Transport
+TXN-202601-01103,1,2026-01-12,Mobile Bill,45.0,expense,Utilities
+TXN-202601-01117,1,2026-01-12,Restaurant,77.98,expense,Food
+TXN-202601-01148,2,2026-01-12,Mobile Bill,45.0,expense,Utilities
+TXN-202601-01163,2,2026-01-12,Restaurant,84.51,expense,Food
+TXN-202601-01177,2,2026-01-12,Cab,28.33,expense,Transport
+TXN-202601-01104,1,2026-01-14,Netflix,15.99,expense,Subscription
+TXN-202601-01110,1,2026-01-14,Restaurant,56.07,expense,Food
+TXN-202601-01119,1,2026-01-14,Grocery Store,138.76,expense,Food
+TXN-202601-01149,2,2026-01-14,Netflix,15.99,expense,Subscription
+TXN-202601-01105,1,2026-01-15,Spotify,10.99,expense,Subscription
+TXN-202601-01114,1,2026-01-15,Restaurant,79.08,expense,Food
+TXN-202601-01138,1,2026-01-15,Movies,33.28,expense,Entertainment
+TXN-202601-01150,2,2026-01-15,Spotify,10.99,expense,Subscription
+TXN-202601-01157,2,2026-01-15,Grocery Store,181.41,expense,Food
+TXN-202601-01179,2,2026-01-15,Bus,2.26,expense,Transport
+TXN-202601-01115,1,2026-01-16,Restaurant,32.92,expense,Food
+TXN-202601-01141,1,2026-01-16,Pharmacy,15.1,expense,Healthcare
+TXN-202601-01167,2,2026-01-16,Grocery Store,131.05,expense,Food
+TXN-202601-01190,2,2026-01-16,Events,61.24,expense,Entertainment
+TXN-202601-01168,2,2026-01-17,Restaurant,30.78,expense,Food
+TXN-202601-01187,2,2026-01-17,Clothing,113.81,expense,Shopping
+TXN-202601-01106,1,2026-01-18,Cloud Subscription,20.0,expense,Subscription
+TXN-202601-01128,1,2026-01-18,Fuel,53.86,expense,Transport
+TXN-202601-01151,2,2026-01-18,Cloud Subscription,20.0,expense,Subscription
+TXN-202601-01130,1,2026-01-19,Fuel,65.03,expense,Transport
+TXN-202601-01126,1,2026-01-20,Fuel,42.23,expense,Transport
+TXN-202601-01184,2,2026-01-20,Cab,19.41,expense,Transport
+TXN-202601-01109,1,2026-01-21,Restaurant,72.93,expense,Food
+TXN-202601-01137,1,2026-01-21,Movies,24.53,expense,Entertainment
+TXN-202601-01183,2,2026-01-21,Fuel,54.37,expense,Transport
+TXN-202601-01188,2,2026-01-21,Clothing,198.85,expense,Shopping
+TXN-202601-01175,2,2026-01-22,Fuel,53.57,expense,Transport
+TXN-202601-01135,1,2026-01-23,Clothing,74.66,expense,Shopping
+TXN-202601-01165,2,2026-01-23,Food Delivery,35.0,expense,Food
+TXN-202601-01169,2,2026-01-23,Grocery Store,60.09,expense,Food
+TXN-202601-01181,2,2026-01-24,Fuel,68.71,expense,Transport
+TXN-202601-01112,1,2026-01-25,Grocery Store,39.09,expense,Food
+TXN-202601-01118,1,2026-01-25,Restaurant,63.24,expense,Food
+TXN-202601-01120,1,2026-01-25,Grocery Store,144.35,expense,Food
+TXN-202601-01139,1,2026-01-25,Movies,26.86,expense,Entertainment
+TXN-202601-01174,2,2026-01-25,Bus,3.92,expense,Transport
+TXN-202601-01124,1,2026-01-26,Restaurant,73.24,expense,Food
+TXN-202601-01108,1,2026-01-27,Grocery Store,105.2,expense,Food
+TXN-202601-01122,1,2026-01-27,Grocery Store,143.16,expense,Food
+TXN-202601-01136,1,2026-01-27,Household Shopping,66.6,expense,Shopping
+TXN-202601-01152,2,2026-01-27,Grocery Store,82.28,expense,Food
+TXN-202601-01153,2,2026-01-27,Grocery Store,124.1,expense,Food
+TXN-202601-01125,1,2026-01-28,Restaurant,69.29,expense,Food
+TXN-202601-01170,2,2026-01-28,Grocery Store,61.83,expense,Food
+TXN-202601-01192,2,2026-01-28,Miscellaneous,64.86,expense,Other
+TXN-202601-01131,1,2026-01-29,Cab,14.48,expense,Transport
+TXN-202601-01186,2,2026-01-29,Clothing,134.98,expense,Shopping
+TXN-202601-01191,2,2026-01-29,Games,69.33,expense,Entertainment
+TXN-202601-01160,2,2026-01-30,Grocery Store,139.5,expense,Food
+TXN-202601-01107,1,2026-01-31,Grocery Store,52.07,expense,Food
+TXN-202601-01132,1,2026-01-31,Cab,22.7,expense,Transport
+TXN-202601-01159,2,2026-01-31,Grocery Store,191.35,expense,Food
+TXN-202601-01185,2,2026-01-31,Cab,34.05,expense,Transport
+TXN-202601-01189,2,2026-01-31,Clothing,112.83,expense,Shopping
+TXN-202602-01193,1,2026-02-01,Salary,5034.17,income,Income
+TXN-202602-01203,1,2026-02-01,Grocery Store,39.98,expense,Food
+TXN-202602-01229,1,2026-02-01,Clothing,106.05,expense,Shopping
+TXN-202602-01238,2,2026-02-01,Salary,6604.71,income,Income
+TXN-202602-01252,2,2026-02-01,Food Delivery,18.95,expense,Food
+TXN-202602-01254,2,2026-02-01,Food Delivery,18.06,expense,Food
+TXN-202602-01194,1,2026-02-02,Rent,1400.0,expense,Housing
+TXN-202602-01204,1,2026-02-02,Food Delivery,28.13,expense,Food
+TXN-202602-01215,1,2026-02-02,Grocery Store,127.71,expense,Food
+TXN-202602-01225,1,2026-02-02,Metro,5.55,expense,Transport
+TXN-202602-01240,2,2026-02-02,Rent,1850.0,expense,Housing
+TXN-202602-01277,2,2026-02-02,Cab,18.76,expense,Transport
+TXN-202602-01224,1,2026-02-03,Metro,5.3,expense,Transport
+TXN-202602-01221,1,2026-02-04,Cab,12.76,expense,Transport
+TXN-202602-01235,1,2026-02-04,Events,121.66,expense,Entertainment
+TXN-202602-01269,2,2026-02-04,Fuel,51.31,expense,Transport
+TXN-202602-01281,2,2026-02-04,Clothing,187.5,expense,Shopping
+TXN-202602-01196,1,2026-02-05,Electricity,123.93,expense,Utilities
+TXN-202602-01217,1,2026-02-05,Restaurant,36.47,expense,Food
+TXN-202602-01242,2,2026-02-05,Electricity,124.92,expense,Utilities
+TXN-202602-01258,2,2026-02-05,Restaurant,37.81,expense,Food
+TXN-202602-01262,2,2026-02-05,Restaurant,63.13,expense,Food
+TXN-202602-01264,2,2026-02-05,Grocery Store,81.15,expense,Food
+TXN-202602-01282,2,2026-02-05,Movies,24.21,expense,Entertainment
+TXN-202602-01278,2,2026-02-06,Fuel,49.15,expense,Transport
+TXN-202602-01209,1,2026-02-07,Food Delivery,20.13,expense,Food
+TXN-202602-01197,1,2026-02-08,Water Bill,30.42,expense,Utilities
+TXN-202602-01233,1,2026-02-08,Movies,31.57,expense,Entertainment
+TXN-202602-01241,2,2026-02-08,Maintenance,96.87,expense,Housing
+TXN-202602-01243,2,2026-02-08,Water Bill,48.49,expense,Utilities
+TXN-202602-01257,2,2026-02-08,Grocery Store,186.18,expense,Food
+TXN-202602-01259,2,2026-02-08,Food Delivery,38.58,expense,Food
+TXN-202602-01267,2,2026-02-08,Fuel,42.09,expense,Transport
+TXN-202602-01276,2,2026-02-08,Bus,3.19,expense,Transport
+TXN-202602-01208,1,2026-02-09,Grocery Store,44.88,expense,Food
+TXN-202602-01219,1,2026-02-09,Fuel,39.44,expense,Transport
+TXN-202602-01223,1,2026-02-09,Cab,26.99,expense,Transport
+TXN-202602-01234,1,2026-02-09,Games,48.57,expense,Entertainment
+TXN-202602-01272,2,2026-02-09,Bus,2.27,expense,Transport
+TXN-202602-01284,2,2026-02-09,Medical,46.0,expense,Healthcare
+TXN-202602-01198,1,2026-02-10,Internet,69.99,expense,Utilities
+TXN-202602-01205,1,2026-02-10,Restaurant,60.07,expense,Food
+TXN-202602-01212,1,2026-02-10,Restaurant,76.1,expense,Food
+TXN-202602-01244,2,2026-02-10,Internet,69.99,expense,Utilities
+TXN-202602-01256,2,2026-02-10,Grocery Store,121.47,expense,Food
+TXN-202602-01210,1,2026-02-11,Grocery Store,114.29,expense,Food
+TXN-202602-01265,2,2026-02-11,Food Delivery,33.56,expense,Food
+TXN-202602-01195,1,2026-02-12,Maintenance,146.58,expense,Housing
+TXN-202602-01199,1,2026-02-12,Mobile Bill,45.0,expense,Utilities
+TXN-202602-01226,1,2026-02-12,Fuel,62.07,expense,Transport
+TXN-202602-01239,2,2026-02-12,Freelance Income,1010.97,income,Income
+TXN-202602-01245,2,2026-02-12,Mobile Bill,45.0,expense,Utilities
+TXN-202602-01230,1,2026-02-13,Household Shopping,40.21,expense,Shopping
+TXN-202602-01200,1,2026-02-14,Netflix,15.99,expense,Subscription
+TXN-202602-01206,1,2026-02-14,Grocery Store,85.28,expense,Food
+TXN-202602-01214,1,2026-02-14,Grocery Store,111.54,expense,Food
+TXN-202602-01246,2,2026-02-14,Netflix,15.99,expense,Subscription
+TXN-202602-01270,2,2026-02-14,Fuel,47.54,expense,Transport
+TXN-202602-01201,1,2026-02-15,Spotify,10.99,expense,Subscription
+TXN-202602-01237,1,2026-02-15,Miscellaneous,66.56,expense,Other
+TXN-202602-01247,2,2026-02-15,Spotify,10.99,expense,Subscription
+TXN-202602-01249,2,2026-02-15,Grocery Store,187.78,expense,Food
+TXN-202602-01279,2,2026-02-15,Metro,5.48,expense,Transport
+TXN-202602-01280,2,2026-02-15,Clothing,181.36,expense,Shopping
+TXN-202602-01218,1,2026-02-17,Metro,6.7,expense,Transport
+TXN-202602-01228,1,2026-02-17,Clothing,160.22,expense,Shopping
+TXN-202602-01202,1,2026-02-18,Cloud Subscription,20.0,expense,Subscription
+TXN-202602-01248,2,2026-02-18,Cloud Subscription,20.0,expense,Subscription
+TXN-202602-01251,2,2026-02-18,Food Delivery,27.71,expense,Food
+TXN-202602-01253,2,2026-02-18,Grocery Store,167.94,expense,Food
+TXN-202602-01227,1,2026-02-19,Cab,15.0,expense,Transport
+TXN-202602-01263,2,2026-02-19,Restaurant,66.54,expense,Food
+TXN-202602-01207,1,2026-02-21,Restaurant,68.12,expense,Food
+TXN-202602-01255,2,2026-02-22,Grocery Store,152.71,expense,Food
+TXN-202602-01283,2,2026-02-22,Events,119.76,expense,Entertainment
+TXN-202602-01260,2,2026-02-23,Food Delivery,36.15,expense,Food
+TXN-202602-01274,2,2026-02-23,Metro,3.97,expense,Transport
+TXN-202602-01216,1,2026-02-24,Grocery Store,36.58,expense,Food
+TXN-202602-01232,1,2026-02-24,Events,64.08,expense,Entertainment
+TXN-202602-01261,2,2026-02-24,Grocery Store,56.34,expense,Food
+TXN-202602-01266,2,2026-02-24,Fuel,50.85,expense,Transport
+TXN-202602-01220,1,2026-02-25,Bus,4.2,expense,Transport
+TXN-202602-01250,2,2026-02-25,Food Delivery,47.01,expense,Food
+TXN-202602-01268,2,2026-02-25,Cab,14.83,expense,Transport
+TXN-202602-01271,2,2026-02-25,Fuel,45.79,expense,Transport
+TXN-202602-01222,1,2026-02-26,Metro,5.36,expense,Transport
+TXN-202602-01236,1,2026-02-26,Pharmacy,16.84,expense,Healthcare
+TXN-202602-01273,2,2026-02-26,Cab,33.49,expense,Transport
+TXN-202602-01211,1,2026-02-27,Restaurant,70.02,expense,Food
+TXN-202602-01213,1,2026-02-28,Grocery Store,65.56,expense,Food
+TXN-202602-01231,1,2026-02-28,Clothing,152.44,expense,Shopping
+TXN-202602-01275,2,2026-02-28,Fuel,38.19,expense,Transport
+TXN-202603-01285,1,2026-03-01,Salary,4989.55,income,Income
+TXN-202603-01335,2,2026-03-01,Salary,6588.71,income,Income
+TXN-202603-01363,2,2026-03-01,Fuel,68.31,expense,Transport
+TXN-202603-01375,2,2026-03-01,Electronics,174.5,expense,Shopping
+TXN-202603-01286,1,2026-03-02,Rent,1400.0,expense,Housing
+TXN-202603-01324,1,2026-03-02,Fuel,42.66,expense,Transport
+TXN-202603-01336,2,2026-03-02,Rent,1850.0,expense,Housing
+TXN-202603-01357,2,2026-03-02,Grocery Store,151.89,expense,Food
+TXN-202603-01302,1,2026-03-03,Grocery Store,52.15,expense,Food
+TXN-202603-01351,2,2026-03-03,Grocery Store,189.36,expense,Food
+TXN-202603-01362,2,2026-03-03,Cab,12.87,expense,Transport
+TXN-202603-01364,2,2026-03-03,Fuel,66.08,expense,Transport
+TXN-202603-01378,2,2026-03-03,Events,65.78,expense,Entertainment
+TXN-202603-01294,1,2026-03-04,Grocery Store,92.62,expense,Food
+TXN-202603-01332,1,2026-03-04,Movies,22.42,expense,Entertainment
+TXN-202603-01377,2,2026-03-04,Clothing,76.7,expense,Shopping
+TXN-202603-01287,1,2026-03-05,Electricity,76.44,expense,Utilities
+TXN-202603-01337,2,2026-03-05,Electricity,85.63,expense,Utilities
+TXN-202603-01345,2,2026-03-05,Grocery Store,42.27,expense,Food
+TXN-202603-01295,1,2026-03-06,Food Delivery,29.29,expense,Food
+TXN-202603-01327,1,2026-03-06,Household Shopping,96.76,expense,Shopping
+TXN-202603-01333,1,2026-03-06,Games,41.83,expense,Entertainment
+TXN-202603-01352,2,2026-03-06,Restaurant,110.9,expense,Food
+TXN-202603-01358,2,2026-03-06,Food Delivery,37.53,expense,Food
+TXN-202603-01365,2,2026-03-06,Cab,26.22,expense,Transport
+TXN-202603-01303,1,2026-03-07,Restaurant,80.8,expense,Food
+TXN-202603-01326,1,2026-03-07,Household Shopping,53.96,expense,Shopping
+TXN-202603-01355,2,2026-03-07,Grocery Store,52.17,expense,Food
+TXN-202603-01288,1,2026-03-08,Water Bill,51.18,expense,Utilities
+TXN-202603-01304,1,2026-03-08,Restaurant,81.15,expense,Food
+TXN-202603-01312,1,2026-03-08,Food Delivery,18.3,expense,Food
+TXN-202603-01313,1,2026-03-08,Fuel,63.57,expense,Transport
+TXN-202603-01338,2,2026-03-08,Water Bill,44.72,expense,Utilities
+TXN-202603-01373,2,2026-03-08,Fuel,48.75,expense,Transport
+TXN-202603-01356,2,2026-03-09,Food Delivery,46.53,expense,Food
+TXN-202603-01382,2,2026-03-09,Miscellaneous,39.7,expense,Other
+TXN-202603-01289,1,2026-03-10,Internet,69.99,expense,Utilities
+TXN-202603-01323,1,2026-03-10,Fuel,36.33,expense,Transport
+TXN-202603-01339,2,2026-03-10,Internet,69.99,expense,Utilities
+TXN-202603-01308,1,2026-03-11,Grocery Store,57.48,expense,Food
+TXN-202603-01309,1,2026-03-11,Restaurant,27.05,expense,Food
+TXN-202603-01318,1,2026-03-11,Cab,30.14,expense,Transport
+TXN-202603-01328,1,2026-03-11,Clothing,60.68,expense,Shopping
+TXN-202603-01370,2,2026-03-11,Fuel,41.65,expense,Transport
+TXN-202603-01290,1,2026-03-12,Mobile Bill,45.0,expense,Utilities
+TXN-202603-01320,1,2026-03-12,Bus,3.69,expense,Transport
+TXN-202603-01340,2,2026-03-12,Mobile Bill,45.0,expense,Utilities
+TXN-202603-01381,2,2026-03-12,Medical,69.55,expense,Healthcare
+TXN-202603-01344,2,2026-03-13,Grocery Store,145.27,expense,Food
+TXN-202603-01359,2,2026-03-13,Grocery Store,98.3,expense,Food
+TXN-202603-01291,1,2026-03-14,Netflix,15.99,expense,Subscription
+TXN-202603-01301,1,2026-03-14,Food Delivery,30.81,expense,Food
+TXN-202603-01341,2,2026-03-14,Netflix,15.99,expense,Subscription
+TXN-202603-01368,2,2026-03-14,Bus,2.49,expense,Transport
+TXN-202603-01292,1,2026-03-15,Spotify,10.99,expense,Subscription
+TXN-202603-01342,2,2026-03-15,Spotify,10.99,expense,Subscription
+TXN-202603-01307,1,2026-03-16,Grocery Store,105.71,expense,Food
+TXN-202603-01311,1,2026-03-16,Restaurant,78.68,expense,Food
+TXN-202603-01334,1,2026-03-16,Doctor,83.94,expense,Healthcare
+TXN-202603-01360,2,2026-03-16,Cab,27.03,expense,Transport
+TXN-202603-01325,1,2026-03-17,Metro,4.49,expense,Transport
+TXN-202603-01293,1,2026-03-18,Cloud Subscription,20.0,expense,Subscription
+TXN-202603-01343,2,2026-03-18,Cloud Subscription,20.0,expense,Subscription
+TXN-202603-01372,2,2026-03-18,Fuel,44.85,expense,Transport
+TXN-202603-01321,1,2026-03-19,Bus,4.51,expense,Transport
+TXN-202603-01300,1,2026-03-20,Grocery Store,71.89,expense,Food
+TXN-202603-01348,2,2026-03-20,Grocery Store,163.32,expense,Food
+TXN-202603-01349,2,2026-03-20,Grocery Store,126.83,expense,Food
+TXN-202603-01367,2,2026-03-20,Bus,4.11,expense,Transport
+TXN-202603-01297,1,2026-03-22,Grocery Store,79.24,expense,Food
+TXN-202603-01376,2,2026-03-22,Household Shopping,78.99,expense,Shopping
+TXN-202603-01380,2,2026-03-22,Movies,29.76,expense,Entertainment
+TXN-202603-01306,1,2026-03-23,Grocery Store,103.06,expense,Food
+TXN-202603-01329,1,2026-03-23,Household Shopping,90.82,expense,Shopping
+TXN-202603-01331,1,2026-03-23,Games,39.77,expense,Entertainment
+TXN-202603-01346,2,2026-03-23,Food Delivery,33.51,expense,Food
+TXN-202603-01371,2,2026-03-23,Metro,7.17,expense,Transport
+TXN-202603-01296,1,2026-03-24,Grocery Store,38.69,expense,Food
+TXN-202603-01347,2,2026-03-25,Food Delivery,19.28,expense,Food
+TXN-202603-01361,2,2026-03-25,Cab,16.23,expense,Transport
+TXN-202603-01305,1,2026-03-26,Grocery Store,82.81,expense,Food
+TXN-202603-01310,1,2026-03-26,Food Delivery,16.93,expense,Food
+TXN-202603-01316,1,2026-03-26,Fuel,67.73,expense,Transport
+TXN-202603-01322,1,2026-03-26,Bus,3.48,expense,Transport
+TXN-202603-01379,2,2026-03-26,Movies,26.25,expense,Entertainment
+TXN-202603-01353,2,2026-03-27,Restaurant,83.68,expense,Food
+TXN-202603-01374,2,2026-03-27,Electronics,90.97,expense,Shopping
+TXN-202603-01317,1,2026-03-28,Fuel,43.28,expense,Transport
+TXN-202603-01330,1,2026-03-28,Movies,16.67,expense,Entertainment
+TXN-202603-01299,1,2026-03-29,Grocery Store,111.76,expense,Food
+TXN-202603-01354,2,2026-03-29,Grocery Store,43.71,expense,Food
+TXN-202603-01366,2,2026-03-29,Bus,3.01,expense,Transport
+TXN-202603-01369,2,2026-03-29,Metro,3.24,expense,Transport
+TXN-202603-01298,1,2026-03-30,Grocery Store,69.98,expense,Food
+TXN-202603-01314,1,2026-03-30,Cab,31.87,expense,Transport
+TXN-202603-01319,1,2026-03-30,Metro,6.17,expense,Transport
+TXN-202603-01350,2,2026-03-30,Restaurant,57.82,expense,Food
+TXN-202603-01315,1,2026-03-31,Fuel,64.63,expense,Transport
+TXN-202604-01383,1,2026-04-01,Salary,5002.68,income,Income
+TXN-202604-01423,2,2026-04-01,Salary,6589.24,income,Income
+TXN-202604-01453,2,2026-04-01,Bus,4.9,expense,Transport
+TXN-202604-01384,1,2026-04-02,Rent,1400.0,expense,Housing
+TXN-202604-01420,1,2026-04-02,Games,66.03,expense,Entertainment
+TXN-202604-01425,2,2026-04-02,Rent,1850.0,expense,Housing
+TXN-202604-01441,2,2026-04-02,Grocery Store,110.47,expense,Food
+TXN-202604-01392,1,2026-04-03,Restaurant,81.57,expense,Food
+TXN-202604-01407,1,2026-04-03,Fuel,48.91,expense,Transport
+TXN-202604-01449,2,2026-04-03,Grocery Store,99.98,expense,Food
+TXN-202604-01411,1,2026-04-04,Metro,3.67,expense,Transport
+TXN-202604-01413,1,2026-04-04,Bus,3.69,expense,Transport
+TXN-202604-01414,1,2026-04-04,Cab,34.55,expense,Transport
+TXN-202604-01385,1,2026-04-05,Electricity,80.58,expense,Utilities
+TXN-202604-01403,1,2026-04-05,Grocery Store,44.8,expense,Food
+TXN-202604-01426,2,2026-04-05,Electricity,101.02,expense,Utilities
+TXN-202604-01402,1,2026-04-06,Food Delivery,41.68,expense,Food
+TXN-202604-01417,1,2026-04-06,Clothing,60.14,expense,Shopping
+TXN-202604-01446,2,2026-04-06,Food Delivery,36.79,expense,Food
+TXN-202604-01450,2,2026-04-06,Food Delivery,48.88,expense,Food
+TXN-202604-01434,2,2026-04-07,Grocery Store,179.01,expense,Food
+TXN-202604-01440,2,2026-04-07,Food Delivery,25.95,expense,Food
+TXN-202604-01452,2,2026-04-07,Fuel,49.33,expense,Transport
+TXN-202604-01467,2,2026-04-07,Pharmacy,45.62,expense,Healthcare
+TXN-202604-01386,1,2026-04-08,Water Bill,47.41,expense,Utilities
+TXN-202604-01397,1,2026-04-08,Restaurant,30.53,expense,Food
+TXN-202604-01427,2,2026-04-08,Water Bill,50.65,expense,Utilities
+TXN-202604-01445,2,2026-04-08,Grocery Store,131.11,expense,Food
+TXN-202604-01456,2,2026-04-08,Fuel,63.18,expense,Transport
+TXN-202604-01458,2,2026-04-09,Metro,4.69,expense,Transport
+TXN-202604-01465,2,2026-04-09,Events,141.87,expense,Entertainment
+TXN-202604-01466,2,2026-04-09,Events,151.12,expense,Entertainment
+TXN-202604-01387,1,2026-04-10,Internet,69.99,expense,Utilities
+TXN-202604-01428,2,2026-04-10,Internet,69.99,expense,Utilities
+TXN-202604-01457,2,2026-04-10,Cab,30.44,expense,Transport
+TXN-202604-01406,1,2026-04-11,Food Delivery,45.17,expense,Food
+TXN-202604-01408,1,2026-04-11,Bus,3.56,expense,Transport
+TXN-202604-01388,1,2026-04-12,Mobile Bill,45.0,expense,Utilities
+TXN-202604-01429,2,2026-04-12,Mobile Bill,45.0,expense,Utilities
+TXN-202604-01443,2,2026-04-12,Food Delivery,38.0,expense,Food
+TXN-202604-01459,2,2026-04-12,Metro,3.98,expense,Transport
+TXN-202604-01389,1,2026-04-14,Netflix,15.99,expense,Subscription
+TXN-202604-01393,1,2026-04-14,Food Delivery,34.46,expense,Food
+TXN-202604-01430,2,2026-04-14,Netflix,15.99,expense,Subscription
+TXN-202604-01435,2,2026-04-14,Restaurant,93.8,expense,Food
+TXN-202604-01390,1,2026-04-15,Spotify,10.99,expense,Subscription
+TXN-202604-01431,2,2026-04-15,Spotify,10.99,expense,Subscription
+TXN-202604-01416,1,2026-04-16,Electronics,197.18,expense,Shopping
+TXN-202604-01395,1,2026-04-17,Grocery Store,101.94,expense,Food
+TXN-202604-01424,2,2026-04-17,Freelance Income,609.01,income,Income
+TXN-202604-01438,2,2026-04-17,Grocery Store,159.08,expense,Food
+TXN-202604-01439,2,2026-04-17,Food Delivery,19.15,expense,Food
+TXN-202604-01391,1,2026-04-18,Cloud Subscription,20.0,expense,Subscription
+TXN-202604-01394,1,2026-04-18,Grocery Store,83.39,expense,Food
+TXN-202604-01432,2,2026-04-18,Cloud Subscription,20.0,expense,Subscription
+TXN-202604-01447,2,2026-04-18,Grocery Store,66.53,expense,Food
+TXN-202604-01399,1,2026-04-19,Food Delivery,41.41,expense,Food
+TXN-202604-01412,1,2026-04-19,Metro,7.34,expense,Transport
+TXN-202604-01461,2,2026-04-19,Clothing,133.93,expense,Shopping
+TXN-202604-01410,1,2026-04-20,Metro,6.52,expense,Transport
+TXN-202604-01405,1,2026-04-21,Grocery Store,109.38,expense,Food
+TXN-202604-01444,2,2026-04-21,Food Delivery,44.97,expense,Food
+TXN-202604-01455,2,2026-04-21,Fuel,63.03,expense,Transport
+TXN-202604-01463,2,2026-04-21,Events,82.83,expense,Entertainment
+TXN-202604-01400,1,2026-04-22,Food Delivery,19.87,expense,Food
+TXN-202604-01404,1,2026-04-22,Grocery Store,159.66,expense,Food
+TXN-202604-01418,1,2026-04-22,Events,48.3,expense,Entertainment
+TXN-202604-01454,2,2026-04-22,Fuel,66.9,expense,Transport
+TXN-202604-01460,2,2026-04-22,Electronics,289.01,expense,Shopping
+TXN-202604-01462,2,2026-04-22,Household Shopping,115.62,expense,Shopping
+TXN-202604-01464,2,2026-04-22,Movies,16.47,expense,Entertainment
+TXN-202604-01433,2,2026-04-24,Grocery Store,138.83,expense,Food
+TXN-202604-01401,1,2026-04-25,Grocery Store,153.63,expense,Food
+TXN-202604-01437,2,2026-04-26,Grocery Store,88.67,expense,Food
+TXN-202604-01422,1,2026-04-27,Miscellaneous,42.97,expense,Other
+TXN-202604-01396,1,2026-04-28,Food Delivery,33.9,expense,Food
+TXN-202604-01436,2,2026-04-28,Grocery Store,50.43,expense,Food
+TXN-202604-01451,2,2026-04-28,Fuel,42.88,expense,Transport
+TXN-202604-01398,1,2026-04-29,Food Delivery,16.15,expense,Food
+TXN-202604-01415,1,2026-04-29,Electronics,171.08,expense,Shopping
+TXN-202604-01419,1,2026-04-29,Games,54.52,expense,Entertainment
+TXN-202604-01421,1,2026-04-29,Movies,22.77,expense,Entertainment
+TXN-202604-01448,2,2026-04-29,Grocery Store,166.63,expense,Food
+TXN-202604-01409,1,2026-04-30,Bus,4.36,expense,Transport
+TXN-202604-01442,2,2026-04-30,Grocery Store,71.87,expense,Food
+TXN-202605-01468,1,2026-05-01,Salary,5111.09,income,Income
+TXN-202605-01508,2,2026-05-01,Salary,6556.21,income,Income
+TXN-202605-01535,2,2026-05-01,Grocery Store,141.25,expense,Food
+TXN-202605-01554,2,2026-05-01,Games,53.16,expense,Entertainment
+TXN-202605-01469,1,2026-05-02,Rent,1400.0,expense,Housing
+TXN-202605-01479,1,2026-05-02,Restaurant,94.63,expense,Food
+TXN-202605-01510,2,2026-05-02,Rent,1850.0,expense,Housing
+TXN-202605-01530,2,2026-05-02,Restaurant,34.03,expense,Food
+TXN-202605-01547,2,2026-05-03,Cab,13.95,expense,Transport
+TXN-202605-01485,1,2026-05-04,Restaurant,76.86,expense,Food
+TXN-202605-01531,2,2026-05-04,Restaurant,31.66,expense,Food
+TXN-202605-01533,2,2026-05-04,Restaurant,69.85,expense,Food
+TXN-202605-01539,2,2026-05-04,Cab,24.94,expense,Transport
+TXN-202605-01553,2,2026-05-04,Games,64.5,expense,Entertainment
+TXN-202605-01470,1,2026-05-05,Electricity,139.48,expense,Utilities
+TXN-202605-01504,1,2026-05-05,Events,98.85,expense,Entertainment
+TXN-202605-01512,2,2026-05-05,Electricity,92.63,expense,Utilities
+TXN-202605-01526,2,2026-05-05,Grocery Store,45.29,expense,Food
+TXN-202605-01534,2,2026-05-05,Grocery Store,144.86,expense,Food
+TXN-202605-01537,2,2026-05-05,Metro,7.04,expense,Transport
+TXN-202605-01487,1,2026-05-06,Food Delivery,44.69,expense,Food
+TXN-202605-01519,2,2026-05-06,Grocery Store,48.86,expense,Food
+TXN-202605-01524,2,2026-05-06,Food Delivery,54.36,expense,Food
+TXN-202605-01502,1,2026-05-07,Household Shopping,39.33,expense,Shopping
+TXN-202605-01471,1,2026-05-08,Water Bill,47.02,expense,Utilities
+TXN-202605-01481,1,2026-05-08,Restaurant,69.68,expense,Food
+TXN-202605-01513,2,2026-05-08,Water Bill,42.58,expense,Utilities
+TXN-202605-01549,2,2026-05-08,Metro,7.4,expense,Transport
+TXN-202605-01472,1,2026-05-10,Internet,69.99,expense,Utilities
+TXN-202605-01509,2,2026-05-10,Freelance Income,1081.62,income,Income
+TXN-202605-01511,2,2026-05-10,Maintenance,98.41,expense,Housing
+TXN-202605-01514,2,2026-05-10,Internet,69.99,expense,Utilities
+TXN-202605-01497,1,2026-05-11,Metro,5.56,expense,Transport
+TXN-202605-01507,1,2026-05-11,Miscellaneous,59.68,expense,Other
+TXN-202605-01473,1,2026-05-12,Mobile Bill,45.0,expense,Utilities
+TXN-202605-01515,2,2026-05-12,Mobile Bill,45.0,expense,Utilities
+TXN-202605-01555,2,2026-05-12,Medical,116.41,expense,Healthcare
+TXN-202605-01505,1,2026-05-13,Movies,25.98,expense,Entertainment
+TXN-202605-01525,2,2026-05-13,Grocery Store,75.65,expense,Food
+TXN-202605-01474,1,2026-05-14,Netflix,15.99,expense,Subscription
+TXN-202605-01516,2,2026-05-14,Netflix,15.99,expense,Subscription
+TXN-202605-01542,2,2026-05-14,Fuel,36.38,expense,Transport
+TXN-202605-01475,1,2026-05-15,Spotify,10.99,expense,Subscription
+TXN-202605-01491,1,2026-05-15,Bus,3.41,expense,Transport
+TXN-202605-01517,2,2026-05-15,Spotify,10.99,expense,Subscription
+TXN-202605-01550,2,2026-05-15,Clothing,184.61,expense,Shopping
+TXN-202605-01482,1,2026-05-16,Food Delivery,37.17,expense,Food
+TXN-202605-01500,1,2026-05-16,Fuel,69.53,expense,Transport
+TXN-202605-01543,2,2026-05-16,Bus,4.06,expense,Transport
+TXN-202605-01544,2,2026-05-16,Fuel,35.1,expense,Transport
+TXN-202605-01483,1,2026-05-17,Grocery Store,56.25,expense,Food
+TXN-202605-01494,1,2026-05-17,Fuel,58.82,expense,Transport
+TXN-202605-01495,1,2026-05-17,Fuel,36.89,expense,Transport
+TXN-202605-01527,2,2026-05-17,Grocery Store,96.99,expense,Food
+TXN-202605-01538,2,2026-05-17,Cab,15.06,expense,Transport
+TXN-202605-01541,2,2026-05-17,Bus,3.07,expense,Transport
+TXN-202605-01476,1,2026-05-18,Cloud Subscription,20.0,expense,Subscription
+TXN-202605-01506,1,2026-05-18,Pharmacy,29.92,expense,Healthcare
+TXN-202605-01518,2,2026-05-18,Cloud Subscription,20.0,expense,Subscription
+TXN-202605-01546,2,2026-05-19,Cab,15.88,expense,Transport
+TXN-202605-01493,1,2026-05-20,Fuel,66.13,expense,Transport
+TXN-202605-01521,2,2026-05-20,Restaurant,66.43,expense,Food
+TXN-202605-01540,2,2026-05-20,Fuel,44.2,expense,Transport
+TXN-202605-01477,1,2026-05-21,Restaurant,45.69,expense,Food
+TXN-202605-01488,1,2026-05-21,Grocery Store,79.41,expense,Food
+TXN-202605-01501,1,2026-05-21,Clothing,103.29,expense,Shopping
+TXN-202605-01528,2,2026-05-21,Food Delivery,32.86,expense,Food
+TXN-202605-01529,2,2026-05-21,Grocery Store,122.21,expense,Food
+TXN-202605-01484,1,2026-05-22,Food Delivery,20.98,expense,Food
+TXN-202605-01522,2,2026-05-22,Food Delivery,31.57,expense,Food
+TXN-202605-01536,2,2026-05-22,Restaurant,82.32,expense,Food
+TXN-202605-01545,2,2026-05-22,Fuel,38.87,expense,Transport
+TXN-202605-01532,2,2026-05-23,Grocery Store,108.65,expense,Food
+TXN-202605-01486,1,2026-05-24,Food Delivery,40.18,expense,Food
+TXN-202605-01489,1,2026-05-24,Food Delivery,28.88,expense,Food
+TXN-202605-01548,2,2026-05-24,Fuel,43.96,expense,Transport
+TXN-202605-01556,2,2026-05-24,Miscellaneous,17.86,expense,Other
+TXN-202605-01503,1,2026-05-25,Clothing,149.93,expense,Shopping
+TXN-202605-01552,2,2026-05-26,Household Shopping,73.45,expense,Shopping
+TXN-202605-01480,1,2026-05-27,Grocery Store,125.82,expense,Food
+TXN-202605-01492,1,2026-05-28,Metro,5.61,expense,Transport
+TXN-202605-01496,1,2026-05-28,Fuel,69.73,expense,Transport
+TXN-202605-01499,1,2026-05-28,Cab,32.25,expense,Transport
+TXN-202605-01551,2,2026-05-28,Clothing,96.82,expense,Shopping
+TXN-202605-01490,1,2026-05-29,Grocery Store,67.57,expense,Food
+TXN-202605-01523,2,2026-05-29,Restaurant,93.01,expense,Food
+TXN-202605-01478,1,2026-05-30,Grocery Store,83.53,expense,Food
+TXN-202605-01498,1,2026-05-30,Bus,2.43,expense,Transport
+TXN-202605-01520,2,2026-05-31,Grocery Store,151.17,expense,Food
+TXN-202606-01557,1,2026-06-01,Salary,5112.99,income,Income
+TXN-202606-01593,1,2026-06-01,Fuel,49.43,expense,Transport
+TXN-202606-01606,2,2026-06-01,Salary,6594.31,income,Income
+TXN-202606-01560,1,2026-06-02,Rent,1400.0,expense,Housing
+TXN-202606-01584,1,2026-06-02,Fuel,67.7,expense,Transport
+TXN-202606-01588,1,2026-06-02,Metro,5.48,expense,Transport
+TXN-202606-01608,2,2026-06-02,Rent,1850.0,expense,Housing
+TXN-202606-01617,2,2026-06-02,Food Delivery,51.16,expense,Food
+TXN-202606-01646,2,2026-06-02,Cab,19.67,expense,Transport
+TXN-202606-01591,1,2026-06-03,Bus,3.34,expense,Transport
+TXN-202606-01592,1,2026-06-04,Bus,4.24,expense,Transport
+TXN-202606-01625,2,2026-06-04,Grocery Store,132.08,expense,Food
+TXN-202606-01638,2,2026-06-04,Cab,26.62,expense,Transport
+TXN-202606-01562,1,2026-06-05,Electricity,150.94,expense,Utilities
+TXN-202606-01574,1,2026-06-05,Restaurant,59.17,expense,Food
+TXN-202606-01610,2,2026-06-05,Electricity,100.01,expense,Utilities
+TXN-202606-01620,2,2026-06-05,Food Delivery,18.17,expense,Food
+TXN-202606-01630,2,2026-06-05,Grocery Store,132.38,expense,Food
+TXN-202606-01634,2,2026-06-07,Grocery Store,149.16,expense,Food
+TXN-202606-01644,2,2026-06-07,Fuel,62.49,expense,Transport
+TXN-202606-01655,2,2026-06-07,Events,133.65,expense,Entertainment
+TXN-202606-01563,1,2026-06-08,Water Bill,32.83,expense,Utilities
+TXN-202606-01602,1,2026-06-08,Movies,23.17,expense,Entertainment
+TXN-202606-01611,2,2026-06-08,Water Bill,38.45,expense,Utilities
+TXN-202606-01576,1,2026-06-09,Restaurant,25.87,expense,Food
+TXN-202606-01564,1,2026-06-10,Internet,69.99,expense,Utilities
+TXN-202606-01596,1,2026-06-10,Bus,3.69,expense,Transport
+TXN-202606-01612,2,2026-06-10,Internet,69.99,expense,Utilities
+TXN-202606-01645,2,2026-06-10,Cab,15.81,expense,Transport
+TXN-202606-01561,1,2026-06-11,Maintenance,123.66,expense,Housing
+TXN-202606-01587,1,2026-06-11,Fuel,68.96,expense,Transport
+TXN-202606-01629,2,2026-06-11,Food Delivery,35.93,expense,Food
+TXN-202606-01565,1,2026-06-12,Mobile Bill,45.0,expense,Utilities
+TXN-202606-01572,1,2026-06-12,Restaurant,85.38,expense,Food
+TXN-202606-01609,2,2026-06-12,Maintenance,136.84,expense,Housing
+TXN-202606-01613,2,2026-06-12,Mobile Bill,45.0,expense,Utilities
+TXN-202606-01589,1,2026-06-13,Metro,4.06,expense,Transport
+TXN-202606-01643,2,2026-06-13,Fuel,58.46,expense,Transport
+TXN-202606-01566,1,2026-06-14,Netflix,15.99,expense,Subscription
+TXN-202606-01614,2,2026-06-14,Netflix,15.99,expense,Subscription
+TXN-202606-01627,2,2026-06-14,Food Delivery,54.27,expense,Food
+TXN-202606-01640,2,2026-06-14,Cab,35.24,expense,Transport
+TXN-202606-01567,1,2026-06-15,Spotify,10.99,expense,Subscription
+TXN-202606-01571,1,2026-06-15,Grocery Store,82.47,expense,Food
+TXN-202606-01590,1,2026-06-15,Metro,5.58,expense,Transport
+TXN-202606-01599,1,2026-06-15,Clothing,147.44,expense,Shopping
+TXN-202606-01601,1,2026-06-15,Movies,32.46,expense,Entertainment
+TXN-202606-01615,2,2026-06-15,Spotify,10.99,expense,Subscription
+TXN-202606-01619,2,2026-06-15,Restaurant,110.32,expense,Food
+TXN-202606-01648,2,2026-06-15,Fuel,65.38,expense,Transport
+TXN-202606-01607,2,2026-06-16,Freelance Income,660.04,income,Income
+TXN-202606-01585,1,2026-06-17,Cab,34.15,expense,Transport
+TXN-202606-01604,1,2026-06-17,Movies,17.45,expense,Entertainment
+TXN-202606-01568,1,2026-06-18,Cloud Subscription,20.0,expense,Subscription
+TXN-202606-01594,1,2026-06-18,Metro,6.72,expense,Transport
+TXN-202606-01616,2,2026-06-18,Cloud Subscription,20.0,expense,Subscription
+TXN-202606-01637,2,2026-06-18,Cab,20.38,expense,Transport
+TXN-202606-01641,2,2026-06-18,Fuel,64.66,expense,Transport
+TXN-202606-01649,2,2026-06-18,Household Shopping,105.73,expense,Shopping
+TXN-202606-01650,2,2026-06-18,Clothing,133.83,expense,Shopping
+TXN-202606-01654,2,2026-06-18,Movies,32.1,expense,Entertainment
+TXN-202606-01570,1,2026-06-19,Restaurant,64.83,expense,Food
+TXN-202606-01578,1,2026-06-19,Restaurant,40.68,expense,Food
+TXN-202606-01618,2,2026-06-19,Grocery Store,175.76,expense,Food
+TXN-202606-01624,2,2026-06-19,Grocery Store,164.29,expense,Food
+TXN-202606-01639,2,2026-06-19,Metro,6.0,expense,Transport
+TXN-202606-01600,1,2026-06-20,Electronics,250.58,expense,Shopping
+TXN-202606-01603,1,2026-06-21,Games,34.59,expense,Entertainment
+TXN-202606-01558,1,2026-06-22,Freelance Income,720.2,income,Income
+TXN-202606-01579,1,2026-06-22,Food Delivery,32.13,expense,Food
+TXN-202606-01581,1,2026-06-22,Restaurant,58.74,expense,Food
+TXN-202606-01582,1,2026-06-22,Restaurant,51.94,expense,Food
+TXN-202606-01597,1,2026-06-22,Electronics,158.85,expense,Shopping
+TXN-202606-01635,2,2026-06-22,Grocery Store,142.86,expense,Food
+TXN-202606-01652,2,2026-06-22,Clothing,112.11,expense,Shopping
+TXN-202606-01580,1,2026-06-23,Restaurant,31.67,expense,Food
+TXN-202606-01632,2,2026-06-23,Restaurant,56.37,expense,Food
+TXN-202606-01636,2,2026-06-23,Restaurant,110.5,expense,Food
+TXN-202606-01621,2,2026-06-24,Grocery Store,182.3,expense,Food
+TXN-202606-01633,2,2026-06-24,Food Delivery,43.05,expense,Food
+TXN-202606-01623,2,2026-06-25,Food Delivery,25.02,expense,Food
+TXN-202606-01628,2,2026-06-25,Grocery Store,101.68,expense,Food
+TXN-202606-01647,2,2026-06-25,Metro,4.61,expense,Transport
+TXN-202606-01559,1,2026-06-26,Bonus,2034.85,income,Income
+TXN-202606-01595,1,2026-06-26,Metro,5.79,expense,Transport
+TXN-202606-01642,2,2026-06-26,Fuel,38.73,expense,Transport
+TXN-202606-01651,2,2026-06-26,Household Shopping,59.34,expense,Shopping
+TXN-202606-01653,2,2026-06-26,Games,35.62,expense,Entertainment
+TXN-202606-01583,1,2026-06-27,Metro,7.45,expense,Transport
+TXN-202606-01598,1,2026-06-27,Clothing,71.21,expense,Shopping
+TXN-202606-01605,1,2026-06-27,Miscellaneous,57.16,expense,Other
+TXN-202606-01622,2,2026-06-27,Restaurant,107.65,expense,Food
+TXN-202606-01569,1,2026-06-28,Grocery Store,87.0,expense,Food
+TXN-202606-01577,1,2026-06-28,Restaurant,78.73,expense,Food
+TXN-202606-01586,1,2026-06-28,Fuel,61.3,expense,Transport
+TXN-202606-01573,1,2026-06-29,Food Delivery,47.12,expense,Food
+TXN-202606-01575,1,2026-06-29,Grocery Store,40.75,expense,Food
+TXN-202606-01626,2,2026-06-29,Grocery Store,174.21,expense,Food
+TXN-202606-01631,2,2026-06-29,Restaurant,55.11,expense,Food

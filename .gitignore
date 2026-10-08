@@ -1,0 +1,45 @@
+# Environment files
+.env
+.env.local
+*.env
+!.env.example
+
+# Python bytecode and caches
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.pytest_cache/
+.coverage
+htmlcov/
+.mypy_cache/
+
+# Virtual environments
+venv/
+.venv/
+env/
+ENV/
+
+# Database artifacts
+*.sqlite
+*.sqlite3
+*.db
+
+# OS and IDE files
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Large temporary models/cache
+*.zip
+*.tar.gz
+scratch/
+
+# Node / Frontend artifacts
+node_modules/
+**/node_modules/
+dist/
+**/dist/
+.vite/
+

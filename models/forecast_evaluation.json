@@ -1,0 +1,35 @@
+{
+  "model": "Ridge Regression (Time-Series Regularized)",
+  "methodology": "Chronological holdout validation without lookahead leakage",
+  "training_period": "2025-01 to 2026-03",
+  "training_months_count": 15,
+  "evaluation_period": "2026-04 to 2026-06",
+  "evaluation_months_count": 3,
+  "mae": 223.68,
+  "rmse": 247.11,
+  "mape": 6.2,
+  "comparisons": [
+    {
+      "month": "2026-04",
+      "actual": 3463.09,
+      "predicted": 3736.99,
+      "absolute_error": 273.9,
+      "percentage_error": 7.91
+    },
+    {
+      "month": "2026-05",
+      "actual": 3477.15,
+      "predicted": 3554.65,
+      "absolute_error": 77.5,
+      "percentage_error": 2.23
+    },
+    {
+      "month": "2026-06",
+      "actual": 3776.68,
+      "predicted": 3457.04,
+      "absolute_error": 319.64,
+      "percentage_error": 8.46
+    }
+  ],
+  "evaluation_timestamp": "2026-10-08T21:50:03.025760"
+}
